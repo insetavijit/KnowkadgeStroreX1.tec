@@ -137,7 +137,7 @@
       {
         "id": "143b48be8f7e4e93",
         "type": "tabs",
-        "dimension": 80.95238095238095,
+        "dimension": 76.28571428571429,
         "children": [
           {
             "id": "f0729291cb30c5df",
@@ -172,7 +172,7 @@
       {
         "id": "671db29f0a1b66e1",
         "type": "tabs",
-        "dimension": 19.047619047619047,
+        "dimension": 23.714285714285715,
         "children": [
           {
             "id": "be37f81baa25a38b",
@@ -215,6 +215,8 @@
   },
   "active": "8b0efa0d66cfe221",
   "lastOpenFiles": [
+    "web.frontend.react/01 React Fundamentals & Setup/1.2 Environment Setup/1.2 Environment Setup.md",
+    "web.fontend.vue/vuejs-syllabus.md",
     "web.fontend.vue/15 Real-World Projects/15 Real-World Projects.md",
     "web.fontend.vue/15 Real-World Projects",
     "web.fontend.vue/14 Deployment & Production/14 Deployment & Production.md",
@@ -249,8 +251,6 @@
     "web.frontend.astro/03 Layouts & Page Structure/03 Layouts & Page Structure.md",
     "web.frontend.astro/02 Components & Templating/02 Components & Templating.md",
     "web.frontend.astro/01 Astro Fundamentals & Setup/01 Astro Fundamentals & Setup.md",
-    "web.fontend.vue/05 Routing with Vue Router/05 Routing with Vue Router.md",
-    "web.fontend.vue/04 Composition API/04 Composition API.md",
     "fremwork.devSystem.11ty/Untitled.canvas",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (2).png",
     "LLM AGENT DEVLOPEMENT/@CORE/imgs/Slide-16_9---26--1- (1).png",

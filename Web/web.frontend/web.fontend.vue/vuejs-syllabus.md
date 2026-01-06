@@ -2,15 +2,15 @@
 
 Master Vue.js as the progressive JavaScript framework loved by developers worldwide. Learn why Vue powers applications at Alibaba, Xiaomi, GitLab, and BMW. Understand Vue's approachable syntax, reactivity system, and incremental adoption that makes it perfect for both beginners and large-scale applications. Vue.js developers earn $90k-$135k annually with growing demand. Essential for frontend development and a top choice for enterprise applications.
 
-|Topic|Focus & Purpose|
-|---|---|
-|**[[1.1 Vue.js Introduction]]**|What is Vue; progressive framework philosophy; Vue 2 vs Vue 3; Options vs Composition API; ecosystem overview; market demand. Industry context.|
-|**[[1.2 Environment Setup]]**|Node.js setup; create-vue; Vite; VS Code Volar extension; Vue DevTools; project templates. Professional setup.|
-|**[[1.3 Project Structure]]**|Vite Vue project; src directory; components folder; assets; main.js; App.vue. File organization.|
-|**[[1.4 Vue Components]]**|Single File Components (.vue); template; script; style; component basics. Building blocks.|
-|**[[1.5 Template Syntax]]**|Interpolation; directives; v-bind; v-on; expressions; dynamic attributes. Template fundamentals.|
-|**[[1.6 Development Tools]]**|Vue DevTools; component inspection; state debugging; timeline; performance. Debugging tools.|
-|**[[1.7 Project: Hello Vue App]]**|Building first Vue app; components; styling; data binding; development workflow. First project.|
+| Topic                              | Focus & Purpose                                                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[1.1 Vue.js Introduction]]**    | What is Vue; progressive framework philosophy; Vue 2 vs Vue 3; Options vs Composition API; ecosystem overview; market demand. Industry context. |
+| **[[1.2 Environment Setup]]**      | Node.js setup; create-vue; Vite; VS Code Volar extension; Vue DevTools; project templates. Professional setup.                                  |
+| **[[1.3 Project Structure]]**      | Vite Vue project; src directory; components folder; assets; main.js; App.vue. File organization.                                                |
+| **[[1.4 Vue Components]]**         | Single File Components (.vue); template; script; style; component basics. Building blocks.                                                      |
+| **[[1.5 Template Syntax]]**        | Interpolation; directives; v-bind; v-on; expressions; dynamic attributes. Template fundamentals.                                                |
+| **[[1.6 Development Tools]]**      | Vue DevTools; component inspection; state debugging; timeline; performance. Debugging tools.                                                    |
+| **[[1.7 Project: Hello Vue App]]** | Building first Vue app; components; styling; data binding; development workflow. First project.                                                 |
 
 ### **[[02 Reactivity & Data Binding]]**
 
@@ -46,16 +46,16 @@ Master Vue component architecture for scalable applications. Learn props, events
 
 Master Vue 3 Composition API for modern Vue development. Learn composables, script setup, and code organization. Composition API is the standard for new Vue 3 projects and required for professional Vue development.
 
-|Topic|Focus & Purpose|
-|---|---|
-|**[[4.1 Composition API Basics]]**|setup() function; reactive state; lifecycle in setup; returning values. API fundamentals.|
-|**[[4.2 Script Setup]]**|<script setup>; compiler macro; defineProps; defineEmits; defineExpose. Modern syntax.|
-|**[[4.3 Composables]]**|Creating composables; reusable logic; conventions; composition; sharing state. Code reuse.|
-|**[[4.4 Refs & Reactive]]**|ref(); reactive(); toRef; toRefs; isRef; unref; shallowRef. Reactivity utilities.|
-|**[[4.5 Computed & Watch]]**|computed(); watch(); watchEffect(); watchPostEffect; cleanup. Derived state.|
-|**[[4.6 Template Refs]]**|Template refs; ref attribute; component refs; accessing DOM; focus management. DOM access.|
-|**[[4.7 Lifecycle Hooks]]**|onMounted; onUnmounted; onBeforeMount; onUpdated; hook timing. Lifecycle in Composition.|
-|**[[4.8 Project: Composable Library]]**|Building composables; useFetch; useLocalStorage; useDebounce; documentation. Composables project.|
+| Topic                                   | Focus & Purpose                                                                                   |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **[[4.1 Composition API Basics]]**      | setup() function; reactive state; lifecycle in setup; returning values. API fundamentals.         |
+| **[[4.2 Script Setup]]**                | script setup ; compiler macro; defineProps; defineEmits; defineExpose. Modern syntax.             |
+| **[[4.3 Composables]]**                 | Creating composables; reusable logic; conventions; composition; sharing state. Code reuse.        |
+| **[[4.4 Refs & Reactive]]**             | ref(); reactive(); toRef; toRefs; isRef; unref; shallowRef. Reactivity utilities.                 |
+| **[[4.5 Computed & Watch]]**            | computed(); watch(); watchEffect(); watchPostEffect; cleanup. Derived state.                      |
+| **[[4.6 Template Refs]]**               | Template refs; ref attribute; component refs; accessing DOM; focus management. DOM access.        |
+| **[[4.7 Lifecycle Hooks]]**             | onMounted; onUnmounted; onBeforeMount; onUpdated; hook timing. Lifecycle in Composition.          |
+| **[[4.8 Project: Composable Library]]** | Building composables; useFetch; useLocalStorage; useDebounce; documentation. Composables project. |
 
 ### **[[05 Routing with Vue Router]]**
 
