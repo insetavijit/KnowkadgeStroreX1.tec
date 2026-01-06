@@ -1,0 +1,10 @@
+| Topic                                     | Focus & Purpose                                                                                                                                             |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[VT1.1.1 What Is Vite]]**              | Define **Vite** as a modern frontend build tool and dev server; problems it solves in traditional bundling workflows. Conceptual grounding.                 |
+| **[[VT1.1.2 Native ESM Foundation]]**     | Explain native ES Modules in modern browsers; how Vite leverages ESM for instant server start and on-demand module loading. Architectural basis.            |
+| **[[VT1.1.3 Dev Server Architecture]]**   | High-level view of Vite’s dev server: dependency pre-bundling, on-demand transforms, HMR pipeline; contrast with full-bundle rebuilds. Execution awareness. |
+| **[[VT1.1.4 Why Vite Is Fast]]**          | Reasons for perceived speed: no upfront bundling in dev, ESM-based loading, efficient HMR, optimized production builds. Performance intuition.              |
+| **[[VT1.1.5 Vite vs Webpack vs Parcel]]** | Conceptual comparison with **Webpack** and **Parcel**: dev experience, configuration complexity, build model. Tool positioning.                             |
+| **[[VT1.1.6 Ecosystem Overview]]**        | Plugin system, framework integrations (React, Vue, Svelte), TypeScript support, CSS handling; role in modern frontend stacks. Ecosystem literacy.           |
+| **[[VT1.1.7 Adoption & Market Context]]** | Industry adoption trends; popularity in modern frontend projects; suitability for greenfield apps and framework-based development. Market context.          |
+| **[[VT1.1.8 Industry Positioning]]**      | Vite’s place among modern build tools; when it is a default choice vs legacy bundlers; strategic relevance for frontend teams. Industry context.            |

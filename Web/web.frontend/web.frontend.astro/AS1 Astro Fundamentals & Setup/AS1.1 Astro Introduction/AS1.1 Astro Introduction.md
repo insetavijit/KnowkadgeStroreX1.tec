@@ -1,0 +1,10 @@
+| Topic                                      | Focus & Purpose                                                                                                                                                         |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[AS1.1.1 What Is Astro]]**              | Define **Astro** as a modern, content-focused web framework; core goals; problems it addresses in frontend development. Conceptual grounding.                           |
+| **[[AS1.1.2 Islands Architecture]]**       | Explain Astro’s islands architecture: partial hydration, isolated interactivity, and component-level JavaScript loading. Architectural philosophy.                      |
+| **[[AS1.1.3 Zero-JS by Default]]**         | Zero-JavaScript output by default; opt-in hydration strategies; impact on performance, SEO, and Core Web Vitals. Performance-first mindset.                             |
+| **[[AS1.1.4 Content-Focused Design]]**     | Markdown/MDX-first workflows; content collections; separation of content and interactivity; suitability for blogs, docs, and marketing sites. Content strategy context. |
+| **[[AS1.1.5 Astro vs Next.js vs Gatsby]]** | High-level comparison with **Next.js** and **Gatsby**: rendering model, JS footprint, complexity, and typical use cases. Framework positioning.                         |
+| **[[AS1.1.6 Use Cases & Adoption]]**       | Ideal scenarios: content-heavy sites, documentation, blogs, landing pages; when Astro is preferred vs traditional SPAs. Practical applicability.                        |
+| **[[AS1.1.7 Ecosystem Overview]]**         | Framework-agnostic components (React, Vue, Svelte); integrations; build tooling; deployment targets. Ecosystem literacy.                                                |
+| **[[AS1.1.8 Industry Positioning]]**       | Astro’s place in the modern frontend landscape; relevance for performance-driven teams; adoption trends in content-first projects. Industry context.                    |

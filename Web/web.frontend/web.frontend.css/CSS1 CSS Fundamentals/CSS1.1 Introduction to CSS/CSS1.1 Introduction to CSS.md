@@ -1,0 +1,9 @@
+| Topic                                    | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[CSS1.1.1 What Is CSS]]**             | Define **CSS** as the stylesheet language for controlling presentation and layout of HTML; role in the web stack. Conceptual grounding.            |
+| **[[CSS1.1.2 History & Evolution]]**     | Brief evolution from early CSS to CSS3; separation of structure and presentation; impact on modern web design practices. Historical context.       |
+| **[[CSS1.1.3 CSS3 Features Overview]]**  | High-level overview of major CSS3 capabilities: selectors, media queries, flexbox, grid, animations, transitions, variables. Feature awareness.    |
+| **[[CSS1.1.4 Styling Methods]]**         | Inline vs internal vs external CSS; scope, maintainability, performance implications; recommended best practices. Structural understanding.        |
+| **[[CSS1.1.5 Why Learn CSS]]**           | Importance of CSS for frontend development; control over layout and responsiveness; relevance across frameworks and platforms. Learning rationale. |
+| **[[CSS1.1.6 Styling Fundamentals]]**    | Core concepts: selectors, properties, values, box model, cascade, specificity, inheritance. Foundational mental model.                             |
+| **[[CSS1.1.7 Role in Modern Frontend]]** | CSS as a standalone skill vs framework-assisted styling; interaction with HTML, JS, and UI frameworks; long-term relevance. Industry perspective.  |
