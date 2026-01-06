@@ -11,14 +11,10 @@
             "id": "8b0efa0d66cfe221",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core.Php/01 PHP Fundamentals/1.1 Introduction to PHP/1.1 Introduction to PHP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.1 Introduction to PHP"
+              "title": "New tab"
             }
           }
         ]
