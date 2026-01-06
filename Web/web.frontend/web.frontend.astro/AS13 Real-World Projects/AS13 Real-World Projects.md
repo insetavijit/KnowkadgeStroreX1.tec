@@ -1,0 +1,14 @@
+# AS13 Real-World Projects
+
+Master building production-grade Astro websites. Build impressive portfolio pieces that demonstrate job-ready skills. Real projects are essential for landing Astro positions and freelance work.
+
+|Topic|Focus & Purpose|
+|---|---|
+|**[[AS13.1 Documentation Site]]**|Starlight theme; sidebar; search; versioning; code blocks; MDX. Technical docs.|
+|**[[AS13.2 Marketing Website]]**|Landing pages; CTAs; testimonials; pricing; animations; conversion. Business site.|
+|**[[AS13.3 Blog Platform]]**|Content collections; categories; authors; comments; pagination; RSS. Content platform.|
+|**[[AS13.4 Portfolio Site]]**|Project showcase; case studies; about; contact; animations; responsive. Personal branding.|
+|**[[AS13.5 E-Commerce Storefront]]**|Product pages; cart (Snipcart); checkout; Stripe; product data. E-commerce.|
+|**[[AS13.6 SaaS Landing Page]]**|Feature sections; pricing tables; FAQ; testimonials; CTA sections. SaaS marketing.|
+|**[[AS13.7 Agency Website]]**|Services; portfolio; team; contact; case studies; animations. Agency site.|
+|**[[AS13.8 Production Website]]**|Complete production site; all features; optimization; deployment. Portfolio centerpiece.|
