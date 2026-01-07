@@ -11,13 +11,32 @@
             "id": "8b0efa0d66cfe221",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.1 LangChain Setup & Architecture/LC1.1.1 What Is LangChain.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LC1.1.1 What Is LangChain"
+            }
+          },
+          {
+            "id": "9fbd2a3186c09207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.2 LLM Integration/LC1.2.8 Streaming Responses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LC1.2.8 Streaming Responses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,34 +229,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0efa0d66cfe221",
+  "active": "9fbd2a3186c09207",
   "lastOpenFiles": [
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.8 Performance Monitoring.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.7 Custom Callback Handlers.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.6 LangSmith Integration.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.5 Tracing Chains.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.4 Logging Best Practices.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.3 Verbose Mode.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.2 Built-in Callback Handlers.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.8 Debugging & Callbacks/LC1.8.1 Callbacks System Overview.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.8 Choosing Memory Type.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.7 History Management.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.6 Memory in Chains.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.5 ConversationSummaryBufferMemory.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.4 ConversationSummaryMemory.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.3 ConversationBufferWindowMemory.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.2 ConversationBufferMemory.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.7 Memory Basics/LC1.7.1 Why Memory Matters.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.8 Custom Parsers.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.7 Error Handling.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.6 Parsing Strategies.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.5 Structured Output.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.4 PydanticOutputParser.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.3 JsonOutputParser.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.2 StrOutputParser.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.6 Output Parsers/LC1.6.1 Why Output Parsers.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.5 LCEL (LangChain Expression Language)/LC1.5.8 LCEL vs Legacy Comparison.md",
-    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.5 LCEL (LangChain Expression Language)/LC1.5.7 Chain Composition with LCEL.md",
+    "ai.agent/ai.agent.langchain/LC3 Retrieval-Augmented Generation (RAG)/LC3.1 Document Loaders/LC3.1.2 TextLoader.md",
+    "ai.agent/ai.agent.langchain/LC3 Retrieval-Augmented Generation (RAG)/LC3.1 Document Loaders/LC3.1.1 Document Loader Concepts.md",
+    "ai.agent/ai.agent.langchain/LC1 LangChain Fundamentals/LC1.1 LangChain Setup & Architecture/LC1.1.8 Industry Positioning.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.8 Multi-Environment Setup.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.7 Configuration Patterns.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.6 Callbacks in Config.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.5 Tags and Metadata.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.4 Environment Variables.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.3 Configurable Chains.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.2 Runtime Configuration.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.8 Configuration & Runtime/LC2.8.1 RunnableConfig Overview.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.8 Batch vs Stream Trade-offs.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.7 Memory Considerations.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.6 Batch Error Handling.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.5 Parallel Requests.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.4 Throughput Maximization.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.3 Batch Optimization.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.2 Concurrent Batching.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.7 Batch Processing/LC2.7.1 Batch Method Basics.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.8 Async Error Handling.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.7 Real-Time Output Patterns.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.6 Async Generators.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.5 Event Streaming.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.4 Token Streaming.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.3 Astream Method.md",
+    "ai.agent/ai.agent.langchain/LC2 Advanced Chains & LCEL/LC2.6 Streaming & Async/LC2.6.2 Async Chains.md",
     "Core.Php/17 Testing & Quality Assurance/17.6 Code Coverage",
     "Core.Php/17 Testing & Quality Assurance/17.5 Database Testing",
     "Core.Php/17 Testing & Quality Assurance/17.4 Mocking & Stubs",
