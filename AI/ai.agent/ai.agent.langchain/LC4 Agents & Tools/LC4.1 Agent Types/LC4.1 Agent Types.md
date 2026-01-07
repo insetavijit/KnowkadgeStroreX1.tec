@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.1.1 What Are Agents]]**                  | Agent concept; autonomous decision-making; reasoning + action loop; agent vs chain distinction. Foundational understanding.                                     |
+| **[[LC4.1.2 Zero-Shot ReAct Agent]]**            | ReAct paradigm; reasoning traces; tool selection; zero-shot agent setup. Standard agent type.                                                                   |
+| **[[LC4.1.3 Conversational Agents]]**            | Chat-based agents; conversation memory; multi-turn interactions; conversational context. Chat agents.                                                           |
+| **[[LC4.1.4 OpenAI Functions Agent]]**           | Function calling; structured tool use; OpenAI function format; reliable tool invocation. Function-based agents.                                                 |
+| **[[LC4.1.5 Structured Chat Agent]]**            | Structured input/output; JSON-based tool calls; predictable agent behavior. Structured agents.                                                                  |
+| **[[LC4.1.6 Agent Selection Criteria]]**         | Choosing agent type; use case matching; model compatibility; complexity considerations. Decision framework.                                                     |
+| **[[LC4.1.7 Agents vs Chains]]**                 | When to use agents; when chains suffice; deterministic vs autonomous; trade-offs. Choosing approach.                                                            |
+| **[[LC4.1.8 Agent Architectures Overview]]**     | Agent patterns; single-agent vs multi-agent; hierarchical agents; architecture options. Design patterns.                                                        |

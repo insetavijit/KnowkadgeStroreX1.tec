@@ -1,0 +1,10 @@
+| Topic                                          | Focus & Purpose                                                                                                                                                  |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.6.1 Why Output Parsers]]**             | Purpose of output parsing; structured vs unstructured output; reliability of LLM outputs; parser role in chains. Motivation.                                     |
+| **[[LC1.6.2 StrOutputParser]]**                | Basic string parsing; extracting text from AIMessage; simple output extraction; when to use StrOutputParser. Text output.                                        |
+| **[[LC1.6.3 JsonOutputParser]]**               | Parsing JSON from LLM output; JSON formatting instructions; handling malformed JSON; JSON extraction patterns. Structured data.                                  |
+| **[[LC1.6.4 PydanticOutputParser]]**           | Type-safe parsing with Pydantic; defining output schemas; automatic validation; format instructions generation. Schema-driven parsing.                           |
+| **[[LC1.6.5 Structured Output]]**              | Defining output structures; nested objects; lists and arrays; complex schemas; structured output best practices. Complex outputs.                                 |
+| **[[LC1.6.6 Parsing Strategies]]**             | Retry parsing; OutputFixingParser; handling partial outputs; fallback strategies; robust parsing pipelines. Error recovery.                                       |
+| **[[LC1.6.7 Error Handling]]**                 | Common parsing errors; OutputParserException; debugging parse failures; logging; graceful degradation. Failure management.                                        |
+| **[[LC1.6.8 Custom Parsers]]**                 | Building custom output parsers; BaseOutputParser interface; parse method; get_format_instructions; specialized parsing. Extending parsers.                        |

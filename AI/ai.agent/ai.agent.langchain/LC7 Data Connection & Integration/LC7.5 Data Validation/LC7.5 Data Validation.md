@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.5.1 Input Validation]]**                 | Validating chain inputs; input schemas; rejection handling. Input checking.                                                                                     |
+| **[[LC7.5.2 Output Validation]]**                | Validating LLM outputs; schema conformance; format verification. Output checking.                                                                               |
+| **[[LC7.5.3 Pydantic Integration]]**             | Pydantic models; validation; type coercion; error messages. Pydantic validation.                                                                                |
+| **[[LC7.5.4 Type Checking]]**                    | Runtime type checking; type annotations; validation decorators. Type enforcement.                                                                               |
+| **[[LC7.5.5 Schema Enforcement]]**               | Enforcing data schemas; strict validation; schema evolution. Schema rules.                                                                                      |
+| **[[LC7.5.6 Custom Validators]]**                | Custom validation logic; business rules; domain validation. Custom rules.                                                                                       |
+| **[[LC7.5.7 Validation Error Handling]]**        | Handling validation failures; error messages; recovery strategies. Error handling.                                                                              |
+| **[[LC7.5.8 Data Sanitization]]**                | Sanitizing inputs; preventing injection; safe data handling. Data safety.                                                                                       |

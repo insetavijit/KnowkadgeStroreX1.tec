@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.8.1 Streaming Data]]**                   | Stream processing; continuous data; stream integration. Stream handling.                                                                                        |
+| **[[LC7.8.2 Webhooks]]**                         | Webhook receivers; event handling; callback processing. Webhook integration.                                                                                    |
+| **[[LC7.8.3 Event-Driven Integration]]**         | Event sources; event processing; reactive patterns. Event handling.                                                                                             |
+| **[[LC7.8.4 Real-Time APIs]]**                   | WebSocket connections; SSE; live data feeds. Real-time connections.                                                                                             |
+| **[[LC7.8.5 Live Data Integration]]**            | Continuously updated data; refresh strategies; staleness handling. Live data.                                                                                   |
+| **[[LC7.8.6 Update Patterns]]**                  | Polling vs pushing; update frequency; efficiency patterns. Update strategies.                                                                                   |
+| **[[LC7.8.7 Caching Real-Time Data]]**           | Cache invalidation; TTL strategies; freshness vs performance. Caching patterns.                                                                                 |
+| **[[LC7.8.8 Real-Time RAG]]**                    | RAG with live data; dynamic knowledge; up-to-date answers. Live RAG.                                                                                            |

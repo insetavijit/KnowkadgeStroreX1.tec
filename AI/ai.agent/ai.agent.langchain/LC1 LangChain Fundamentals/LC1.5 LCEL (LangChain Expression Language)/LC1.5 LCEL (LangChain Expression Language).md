@@ -1,0 +1,10 @@
+| Topic                                          | Focus & Purpose                                                                                                                                                  |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.5.1 LCEL Introduction]]**              | What is LCEL; motivation behind the syntax; declarative chain building; benefits over legacy chains; LCEL philosophy. Modern approach.                           |
+| **[[LC1.5.2 Pipe Operator]]**                  | Using the | operator; chaining runnables; left-to-right data flow; reading LCEL expressions; pipe syntax patterns. Core syntax.                                   |
+| **[[LC1.5.3 Runnable Interface]]**             | Runnable protocol; invoke/batch/stream methods; input/output types; Runnable contract; understanding runnables. Foundation abstraction.                          |
+| **[[LC1.5.4 RunnablePassthrough]]**            | Passing data through chains; data injection; combining with other runnables; passthrough patterns; preserving context. Data flow control.                        |
+| **[[LC1.5.5 RunnableLambda]]**                 | Custom functions in chains; wrapping Python functions; lambda expressions; function signatures; error handling in lambdas. Custom logic.                         |
+| **[[LC1.5.6 RunnableBranch]]**                 | Conditional execution; branching logic; condition functions; default branches; decision trees in LCEL. Conditional flows.                                        |
+| **[[LC1.5.7 Chain Composition with LCEL]]**    | Building complex chains; nested LCEL expressions; modular design; reusable components; composition patterns. Advanced building.                                  |
+| **[[LC1.5.8 LCEL vs Legacy Comparison]]**      | Side-by-side comparison; migration examples; feature parity; performance differences; when to use which. Informed choice.                                        |

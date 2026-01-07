@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.3.1 Composing Prompts]]**                | Combining prompt parts; modular composition; reusable sections. Prompt building.                                                                                |
+| **[[LC9.3.2 Partial Templates]]**                | Partial prompt binding; deferred completion; staged prompts. Partial prompts.                                                                                   |
+| **[[LC9.3.3 Template Chaining]]**                | Connecting templates; output to input; template pipelines. Chained templates.                                                                                   |
+| **[[LC9.3.4 Modular Prompts]]**                  | Prompt modules; reusable components; composable parts. Modular design.                                                                                          |
+| **[[LC9.3.5 Prompt Inheritance]]**               | Base prompts; extending prompts; override patterns. Inheritance patterns.                                                                                       |
+| **[[LC9.3.6 System/User Composition]]**          | Combining system and user prompts; role separation; context layering. Role composition.                                                                         |
+| **[[LC9.3.7 Dynamic Composition]]**              | Runtime prompt assembly; conditional sections; adaptive composition. Dynamic building.                                                                          |
+| **[[LC9.3.8 Composition Best Practices]]**       | Clean composition; maintainability; testing composed prompts. Quality practices.                                                                                |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.4.1 ConversationKGMemory Overview]]**    | Knowledge graph memory; structured knowledge; entity-relationship storage. KG memory.                                                                           |
+| **[[LC5.4.2 Knowledge Graph Construction]]**     | Building graphs from conversation; automatic extraction; graph evolution. Graph building.                                                                       |
+| **[[LC5.4.3 Entity-Relationship Extraction]]**   | LLM-based extraction; relationship types; triple extraction. Knowledge extraction.                                                                              |
+| **[[LC5.4.4 Graph-Based Memory]]**               | NetworkX integration; graph storage; querying graph memory. Graph operations.                                                                                   |
+| **[[LC5.4.5 Knowledge Representation]]**         | Representing facts; knowledge structures; ontology considerations. Knowledge modeling.                                                                          |
+| **[[LC5.4.6 KG Memory Querying]]**               | Retrieving from knowledge graph; relevant subgraph; context extraction. Graph retrieval.                                                                        |
+| **[[LC5.4.7 Hybrid Memory with KG]]**            | Combining KG with other memory types; layered knowledge; comprehensive memory. Combined approaches.                                                             |
+| **[[LC5.4.8 KG Memory Use Cases]]**              | Complex domains; relationship-heavy contexts; when KG memory excels. Applications.                                                                              |

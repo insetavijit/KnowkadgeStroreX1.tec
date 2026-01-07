@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.8.1 Why Evaluate RAG]]**                 | Importance of evaluation; failure modes; quality dimensions; evaluation-driven development. Motivation.                                                         |
+| **[[LC3.8.2 Retrieval Metrics]]**                | Precision@k; Recall@k; MRR; NDCG; measuring retrieval quality. Retrieval evaluation.                                                                            |
+| **[[LC3.8.3 Faithfulness]]**                     | Grounded answers; hallucination detection; answer-context alignment; factual accuracy. Generation quality.                                                      |
+| **[[LC3.8.4 Answer Relevance]]**                 | Answer-question alignment; completeness; relevance scoring; user satisfaction. Response quality.                                                                |
+| **[[LC3.8.5 Context Precision & Recall]]**       | Context relevance; retrieved vs needed context; context utilization metrics. Context quality.                                                                   |
+| **[[LC3.8.6 RAGAs Framework]]**                  | RAGAs library; automated evaluation; component scores; end-to-end evaluation. Evaluation framework.                                                             |
+| **[[LC3.8.7 Evaluation Datasets]]**              | Creating golden datasets; synthetic data generation; manual annotation; dataset quality. Test data.                                                             |
+| **[[LC3.8.8 Continuous Evaluation]]**            | Production monitoring; evaluation pipelines; regression detection; A/B testing RAG. Ongoing quality.                                                            |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.6.1 Unit Testing Chains]]**              | Testing chain logic; isolated tests; mock-free testing. Unit tests.                                                                                             |
+| **[[LC8.6.2 Integration Testing]]**              | End-to-end tests; real API tests; integration validation. Integration tests.                                                                                    |
+| **[[LC8.6.3 Mocking LLMs]]**                     | FakeLLM; FakeListLLM; predictable responses; test isolation. LLM mocking.                                                                                       |
+| **[[LC8.6.4 Test Fixtures]]**                    | pytest fixtures; reusable test setup; fixture patterns. Test setup.                                                                                             |
+| **[[LC8.6.5 Response Validation]]**              | Asserting LLM outputs; format validation; content validation. Output testing.                                                                                   |
+| **[[LC8.6.6 CI/CD Integration]]**                | Automated testing; GitHub Actions; test pipelines. CI/CD testing.                                                                                               |
+| **[[LC8.6.7 Regression Testing]]**               | Preventing regressions; golden tests; output comparison. Regression prevention.                                                                                 |
+| **[[LC8.6.8 Test Coverage]]**                    | Coverage metrics; critical path testing; test prioritization. Coverage strategy.                                                                                |

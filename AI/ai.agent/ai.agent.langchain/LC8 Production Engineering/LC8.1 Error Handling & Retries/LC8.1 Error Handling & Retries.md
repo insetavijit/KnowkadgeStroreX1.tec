@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.1.1 Exception Handling]]**               | Try-except patterns; catching LLM errors; API exceptions. Error catching.                                                                                       |
+| **[[LC8.1.2 Retry Decorators]]**                 | tenacity library; retry patterns; @retry decorator. Automatic retries.                                                                                          |
+| **[[LC8.1.3 Exponential Backoff]]**              | Backoff strategies; jitter; backoff configuration. Smart retries.                                                                                               |
+| **[[LC8.1.4 Fallback Strategies]]**              | Primary/fallback chains; graceful degradation; alternative responses. Fallback patterns.                                                                        |
+| **[[LC8.1.5 Error Logging]]**                    | Structured error logs; error context; log aggregation. Error observability.                                                                                     |
+| **[[LC8.1.6 Graceful Degradation]]**             | Reduced functionality; partial responses; user communication. Degraded service.                                                                                 |
+| **[[LC8.1.7 Circuit Breakers]]**                 | Circuit breaker pattern; failure thresholds; recovery. Failure isolation.                                                                                       |
+| **[[LC8.1.8 Error Classification]]**             | Transient vs permanent errors; error categories; handling strategies. Error types.                                                                              |

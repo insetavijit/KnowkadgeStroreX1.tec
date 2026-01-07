@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.7.1 Why Memory Matters]]**               | Stateless vs stateful LLM applications; conversation context; user experience; memory role in chatbots. Motivation for memory.                                   |
+| **[[LC1.7.2 ConversationBufferMemory]]**         | Storing full conversation history; buffer memory setup; memory variables; adding to chains; simple memory use case. Basic memory.                                |
+| **[[LC1.7.3 ConversationBufferWindowMemory]]**   | Sliding window memory; k parameter; limiting context length; memory trimming; balancing context and tokens. Windowed memory.                                     |
+| **[[LC1.7.4 ConversationSummaryMemory]]**        | Summarizing conversation history; LLM-based summarization; summary prompts; progressive summarization. Compressed memory.                                        |
+| **[[LC1.7.5 ConversationSummaryBufferMemory]]**  | Hybrid approach; recent messages + summary; token limit management; best of both approaches. Combined strategy.                                                   |
+| **[[LC1.7.6 Memory in Chains]]**                 | Adding memory to LLMChain; memory keys; load_memory_variables; save_context; memory lifecycle. Chain integration.                                                 |
+| **[[LC1.7.7 History Management]]**               | Clearing memory; persisting memory; memory serialization; session management; multi-user memory. Memory operations.                                               |
+| **[[LC1.7.8 Choosing Memory Type]]**             | Comparison of memory types; use case matching; token considerations; performance trade-offs; decision framework. Selection guidance.                              |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.5.1 Retriever Abstraction]]**            | What is a retriever; retriever vs vector store; BaseRetriever interface; retriever in chains. Conceptual foundation.                                            |
+| **[[LC3.5.2 VectorStoreRetriever]]**             | Creating from vector store; as_retriever method; retriever configuration. Standard retriever.                                                                   |
+| **[[LC3.5.3 Similarity Search Retrieval]]**      | Default retrieval mode; semantic matching; relevance ranking. Basic retrieval.                                                                                  |
+| **[[LC3.5.4 MMR Retrieval]]**                    | Maximum Marginal Relevance; diversity in results; lambda parameter; avoiding redundancy. Diverse retrieval.                                                     |
+| **[[LC3.5.5 Search Kwargs]]**                    | k parameter; score_threshold; filter; fetch_k; configuring retrieval behavior. Retrieval tuning.                                                                |
+| **[[LC3.5.6 Custom Retrievers]]**                | Building custom retrievers; implementing _get_relevant_documents; specialized retrieval logic. Extending retrieval.                                             |
+| **[[LC3.5.7 Ensemble Retrievers]]**              | Combining multiple retrievers; EnsembleRetriever; weighted combination; hybrid approaches. Multi-retriever.                                                     |
+| **[[LC3.5.8 Contextual Compression]]**           | ContextualCompressionRetriever; document compressors; extracting relevant portions. Compression retrieval.                                                      |

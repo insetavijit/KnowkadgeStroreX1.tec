@@ -1,0 +1,10 @@
+| Topic                                              | Focus & Purpose                                                                                                                                                  |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.3.1 VectorStoreRetrieverMemory Overview]]**| Semantic memory search; embedding-based retrieval; long-term memory. Semantic memory.                                                                           |
+| **[[LC5.3.2 Memory Embeddings]]**                  | Embedding conversation turns; memory vector creation; embedding models. Vectorizing memory.                                                                     |
+| **[[LC5.3.3 Semantic Search in Memory]]**          | Relevance-based retrieval; similarity thresholds; k most relevant. Finding memories.                                                                            |
+| **[[LC5.3.4 Long-Term Memory Storage]]**           | Persistent vector stores; scaling memory; unlimited history. Persistent memory.                                                                                 |
+| **[[LC5.3.5 Memory Search Strategies]]**           | Search parameters; filtering; recency weighting; hybrid search. Search optimization.                                                                            |
+| **[[LC5.3.6 Memory Indexing]]**                    | Index management; metadata; memory organization; efficient retrieval. Index design.                                                                             |
+| **[[LC5.3.7 Combining with Conversation Memory]]** | Layered memory; recent + semantic; memory architecture. Memory composition.                                                                                     |
+| **[[LC5.3.8 Vector Memory Performance]]**          | Latency considerations; caching; optimization; scaling. Performance tuning.                                                                                     |

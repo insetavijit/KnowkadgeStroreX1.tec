@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.8.1 ReAct Loop Explained]]**             | Reasoning-Action cycle; thought-action-observation; ReAct pattern details. Core loop.                                                                           |
+| **[[LC4.8.2 Agent Loops]]**                      | Agent iteration; loop structure; termination conditions; loop dynamics. Execution cycle.                                                                        |
+| **[[LC4.8.3 Infinite Loop Prevention]]**         | Detecting loops; max iterations; loop breakers; safety mechanisms. Loop safety.                                                                                 |
+| **[[LC4.8.4 Hallucinated Tools]]**               | Agents inventing tools; non-existent tool calls; handling hallucinations. Tool hallucination.                                                                   |
+| **[[LC4.8.5 When Agents Fail]]**                 | Common failure modes; debugging failures; failure patterns; recovery. Failure analysis.                                                                         |
+| **[[LC4.8.6 Agent vs LangGraph]]**               | When to use LangChain agents; when LangGraph is better; complexity thresholds. Tool selection.                                                                  |
+| **[[LC4.8.7 Agent Limitations]]**                | Context limits; reasoning depth; reliability concerns; appropriate expectations. Understanding limits.                                                          |
+| **[[LC4.8.8 Best Practices Summary]]**           | Agent design guidelines; production considerations; common patterns. Design principles.                                                                         |

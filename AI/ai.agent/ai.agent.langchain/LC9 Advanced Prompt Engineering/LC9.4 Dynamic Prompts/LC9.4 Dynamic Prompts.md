@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.4.1 Runtime Prompt Generation]]**        | Generating prompts at runtime; dynamic construction; context-based. Runtime generation.                                                                         |
+| **[[LC9.4.2 Conditional Prompts]]**              | If-then prompt logic; condition-based content; branching prompts. Conditional content.                                                                          |
+| **[[LC9.4.3 Context-Aware Prompts]]**            | Adapting to context; situational prompts; environment-aware. Context adaptation.                                                                                |
+| **[[LC9.4.4 Adaptive Prompting]]**               | Learning from responses; iterative refinement; feedback loops. Adaptive behavior.                                                                               |
+| **[[LC9.4.5 Personalized Prompts]]**             | User-specific prompts; preference incorporation; personalization. User adaptation.                                                                              |
+| **[[LC9.4.6 Data-Driven Prompts]]**              | Prompts from data; template population; database-driven. Data-based prompts.                                                                                    |
+| **[[LC9.4.7 Meta-Prompting]]**                   | LLM-generated prompts; self-prompting; meta-level optimization. Meta approaches.                                                                                |
+| **[[LC9.4.8 Dynamic Safety]]**                   | Dynamic content filtering; safe dynamic prompts; injection prevention. Dynamic safety.                                                                          |

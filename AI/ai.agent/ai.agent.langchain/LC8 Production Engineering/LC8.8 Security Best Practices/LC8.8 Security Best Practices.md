@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.8.1 Input Sanitization]]**               | Cleaning user input; removing dangerous content; input preprocessing. Safe inputs.                                                                              |
+| **[[LC8.8.2 Prompt Injection Defense]]**         | Detecting injection attempts; injection prevention; robust prompts. Injection protection.                                                                       |
+| **[[LC8.8.3 Secrets Management]]**               | API key storage; environment variables; secret rotation. Credential security.                                                                                   |
+| **[[LC8.8.4 Output Filtering]]**                 | Filtering sensitive outputs; PII detection; content moderation. Output safety.                                                                                  |
+| **[[LC8.8.5 Sandboxing]]**                       | Code execution sandbox; isolated environments; resource limits. Execution safety.                                                                               |
+| **[[LC8.8.6 Access Control]]**                   | User permissions; resource access; authorization checks. Access management.                                                                                     |
+| **[[LC8.8.7 Audit Logging]]**                    | Security logs; audit trail; compliance logging. Security logging.                                                                                               |
+| **[[LC8.8.8 Security Testing]]**                 | Penetration testing; security scanning; vulnerability assessment. Security validation.                                                                          |

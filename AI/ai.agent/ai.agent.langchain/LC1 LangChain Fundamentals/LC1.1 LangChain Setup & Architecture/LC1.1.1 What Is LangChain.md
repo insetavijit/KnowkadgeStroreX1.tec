@@ -1,0 +1,7 @@
+| **Subtopic**                                    | **Focus & Purpose**                 | **Key Concepts / Details**                                       | **One-Line Recall**                                            |
+| ----------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| **[[LC1.1.1.1 Definition of LangChain]]**       | Clearly define LangChain            | Framework for LLM-powered apps, abstraction layer, orchestration | LangChain is a framework for building LLM-driven applications. |
+| **[[LC1.1.1.2 Core Problem LangChain Solves]]** | Identify the primary gap            | Managing prompts, memory, tools, and model calls cohesively      | LangChain simplifies complex LLM workflows.                    |
+| **[[LC1.1.1.3 Role in AI Tooling Landscape]]**  | Position LangChain in the ecosystem | Sits between LLMs and applications, integration-focused          | LangChain bridges models and real applications.                |
+| **[[LC1.1.1.4 Core Building Blocks]]**          | Introduce conceptual primitives     | Chains, agents, tools, memory, retrievers                        | LangChain applications are composed of modular primitives.     |
+| **[[LC1.1.1.5 Typical Use Cases]]**             | Connect framework to practice       | Chatbots, RAG systems, agents, automation pipelines              | LangChain is used to build production LLM systems.             |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.7.1 Batch Method Basics]]**              | Using .batch() method; list inputs; list outputs; basic batch usage. Foundational batching.                                                                      |
+| **[[LC2.7.2 Concurrent Batching]]**              | Parallel execution in batches; max_concurrency parameter; controlling parallelism. Concurrent processing.                                                        |
+| **[[LC2.7.3 Batch Optimization]]**               | When batching helps; overhead analysis; optimal batch sizes; performance tuning. Efficiency gains.                                                               |
+| **[[LC2.7.4 Throughput Maximization]]**          | High-volume processing; rate limiting awareness; sustained throughput; capacity planning. Scale processing.                                                      |
+| **[[LC2.7.5 Parallel Requests]]**                | Multiple API calls; connection pooling; request distribution; load balancing. Network efficiency.                                                                |
+| **[[LC2.7.6 Batch Error Handling]]**             | Handling partial failures; return_exceptions; error aggregation; retry strategies. Robust batching.                                                              |
+| **[[LC2.7.7 Memory Considerations]]**            | Memory usage in batches; chunking large batches; memory-efficient patterns. Resource management.                                                                 |
+| **[[LC2.7.8 Batch vs Stream Trade-offs]]**       | When to batch vs stream; latency vs throughput; use case analysis; hybrid approaches. Decision making.                                                           |

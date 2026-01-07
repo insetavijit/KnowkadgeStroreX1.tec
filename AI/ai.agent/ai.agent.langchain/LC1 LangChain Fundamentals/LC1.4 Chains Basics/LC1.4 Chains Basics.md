@@ -1,0 +1,10 @@
+| Topic                                        | Focus & Purpose                                                                                                                                                  |
+| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.4.1 What Are Chains]]**              | Chain concept; composing LLM calls with other operations; chain as workflow; chain vs single LLM call; chain philosophy. Conceptual foundation.                  |
+| **[[LC1.4.2 LLMChain]]**                     | Basic LLMChain; combining prompt and LLM; input/output handling; LLMChain parameters; simple use cases. Core chain type.                                         |
+| **[[LC1.4.3 Sequential Chains]]**            | SimpleSequentialChain; SequentialChain; chaining multiple steps; output-to-input mapping; linear workflows. Multi-step processing.                               |
+| **[[LC1.4.4 TransformChain]]**               | Data transformation in chains; custom transform functions; preprocessing/postprocessing; non-LLM chain steps. Data manipulation.                                 |
+| **[[LC1.4.5 Chain Composition]]**            | Combining different chain types; nested chains; modular chain design; chain as building blocks. Complex workflows.                                                |
+| **[[LC1.4.6 Input/Output Keys]]**            | Defining input_keys and output_keys; key mapping between chains; variable naming conventions; debugging key mismatches. Data flow management.                    |
+| **[[LC1.4.7 Chain Invocation]]**             | run() vs invoke(); passing inputs; getting outputs; batch execution; async execution; invocation patterns. Running chains.                                       |
+| **[[LC1.4.8 Legacy Chains vs LCEL]]**        | Understanding legacy chain syntax; migration path to LCEL; when legacy chains still apply; deprecation timeline. Transitioning knowledge.                        |

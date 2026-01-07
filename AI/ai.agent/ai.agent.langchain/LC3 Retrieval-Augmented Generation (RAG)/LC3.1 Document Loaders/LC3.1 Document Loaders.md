@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.1.1 Document Loader Concepts]]**         | What are document loaders; Document object structure; metadata; page_content; loader abstraction. Foundational understanding.                                   |
+| **[[LC3.1.2 TextLoader]]**                       | Loading plain text files; encoding handling; file paths; basic text ingestion. Simple text loading.                                                             |
+| **[[LC3.1.3 PDF Loading]]**                      | PyPDFLoader; PDFPlumber; PDF parsing challenges; page extraction; OCR considerations. PDF documents.                                                            |
+| **[[LC3.1.4 CSV & Structured Data]]**            | CSVLoader; column handling; row-to-document mapping; metadata from columns. Tabular data.                                                                        |
+| **[[LC3.1.5 HTML & Web Content]]**               | HTMLLoader; BeautifulSoup integration; cleaning HTML; extracting content; handling scripts/styles. Web pages.                                                   |
+| **[[LC3.1.6 UnstructuredLoader]]**               | Unstructured library integration; multi-format support; element-based parsing; enterprise documents. Universal loader.                                          |
+| **[[LC3.1.7 Web Scraping Loaders]]**             | WebBaseLoader; recursive crawling; sitemap loading; rate limiting; robots.txt respect. Web data acquisition.                                                    |
+| **[[LC3.1.8 API & Cloud Loaders]]**              | Loading from APIs; cloud storage (S3, GCS); database loaders; authentication; streaming large files. External sources.                                          |

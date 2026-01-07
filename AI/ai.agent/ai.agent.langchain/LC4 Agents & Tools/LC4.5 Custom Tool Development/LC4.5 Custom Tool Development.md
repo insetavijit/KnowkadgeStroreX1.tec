@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.5.1 API Wrapper Tools]]**                | Wrapping external APIs; authentication; request/response handling; API tool patterns. API integration.                                                          |
+| **[[LC4.5.2 Database Query Tools]]**             | Custom database tools; ORM integration; query builders; result formatting. Database tools.                                                                      |
+| **[[LC4.5.3 Custom Function Tools]]**            | Business logic tools; domain-specific functions; internal system integration. Custom logic.                                                                     |
+| **[[LC4.5.4 Async Tools]]**                      | Async tool implementation; arun method; concurrent tool execution. Async patterns.                                                                              |
+| **[[LC4.5.5 Tool Dependencies]]**                | Tools with external dependencies; initialization; connection management; cleanup. Resource management.                                                          |
+| **[[LC4.5.6 Complex Multi-Step Tools]]**         | Tools that perform multiple operations; orchestration within tools; tool composition. Advanced tools.                                                           |
+| **[[LC4.5.7 Tool Testing]]**                     | Unit testing tools; mocking dependencies; integration testing; tool validation. Quality assurance.                                                              |
+| **[[LC4.5.8 Tool Documentation]]**               | Documenting tools; usage examples; parameter descriptions; maintenance. Tool docs.                                                                              |

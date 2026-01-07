@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.7.1 Hybrid Search]]**                    | Combining keyword and semantic search; BM25 + embeddings; hybrid retriever setup. Best of both.                                                                 |
+| **[[LC3.7.2 Re-Ranking]]**                       | Cross-encoder re-ranking; Cohere Rerank; improving result quality; two-stage retrieval. Result refinement.                                                      |
+| **[[LC3.7.3 Parent Document Retrieval]]**        | ParentDocumentRetriever; small chunks, large context; child-parent relationships. Context expansion.                                                            |
+| **[[LC3.7.4 Self-Query Retrieval]]**             | SelfQueryRetriever; LLM-generated filters; natural language to structured query. Intelligent filtering.                                                         |
+| **[[LC3.7.5 Multi-Query Retrieval]]**            | MultiQueryRetriever; query expansion; multiple perspectives; improved recall. Query augmentation.                                                               |
+| **[[LC3.7.6 Contextual Compression]]**           | LLMChainExtractor; document compression; relevance extraction; reducing context. Content distillation.                                                          |
+| **[[LC3.7.7 Time-Weighted Retrieval]]**          | TimeWeightedVectorStoreRetriever; recency scoring; decay functions; temporal relevance. Time-aware retrieval.                                                   |
+| **[[LC3.7.8 Custom Retrieval Strategies]]**      | Building specialized retrievers; domain-specific retrieval; combining strategies. Advanced patterns.                                                            |

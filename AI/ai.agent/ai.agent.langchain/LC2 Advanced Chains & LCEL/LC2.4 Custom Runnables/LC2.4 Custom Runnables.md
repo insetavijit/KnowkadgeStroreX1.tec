@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.4.1 Runnable Interface Deep Dive]]**     | Runnable protocol methods; invoke, batch, stream; ainvoke, abatch, astream; interface contract. Core abstraction.                                                |
+| **[[LC2.4.2 Creating Custom Runnables]]**        | Subclassing Runnable; implementing required methods; custom runnable structure. Building blocks.                                                                 |
+| **[[LC2.4.3 Invoke Method Implementation]]**     | Implementing invoke; input processing; output generation; error handling in invoke. Core execution.                                                              |
+| **[[LC2.4.4 Batch Method Implementation]]**      | Implementing batch; parallel processing; batch optimization; handling batch failures. Bulk processing.                                                           |
+| **[[LC2.4.5 Stream Method Implementation]]**     | Implementing stream; yielding outputs; generator patterns; streaming considerations. Streaming output.                                                           |
+| **[[LC2.4.6 Type Annotations]]**                 | InputType and OutputType; generic typing; type safety; type inference; Pydantic integration. Type correctness.                                                   |
+| **[[LC2.4.7 Composition with Custom Runnables]]**| Using custom runnables in chains; pipe operator compatibility; integration patterns. Chain integration.                                                          |
+| **[[LC2.4.8 Reusable Component Patterns]]**      | Designing reusable runnables; parameterization; configuration; documentation; sharing components. Component design.                                              |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.6.1 Stream Method Basics]]**             | Using .stream() method; streaming output; iterator patterns; consuming streams. Foundational streaming.                                                          |
+| **[[LC2.6.2 Async Chains]]**                     | Async/await with chains; ainvoke method; async context; concurrency benefits. Async execution.                                                                   |
+| **[[LC2.6.3 Astream Method]]**                   | Async streaming; astream usage; async generators; combining async and streaming. Async streams.                                                                  |
+| **[[LC2.6.4 Token Streaming]]**                  | Streaming individual tokens; real-time display; token callbacks; user experience. Granular output.                                                               |
+| **[[LC2.6.5 Event Streaming]]**                  | astream_events; event types; chain events; debugging with events. Event-based streaming.                                                                         |
+| **[[LC2.6.6 Async Generators]]**                 | Python async generators; yielding async; combining with LCEL; generator patterns. Async patterns.                                                                |
+| **[[LC2.6.7 Real-Time Output Patterns]]**        | Building real-time UIs; SSE integration; WebSocket patterns; frontend considerations. Live interfaces.                                                           |
+| **[[LC2.6.8 Async Error Handling]]**             | Exception handling in async; async context managers; cleanup; error propagation. Robust async code.                                                              |

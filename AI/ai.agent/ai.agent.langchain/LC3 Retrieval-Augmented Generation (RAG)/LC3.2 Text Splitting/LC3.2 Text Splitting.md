@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.2.1 Why Text Splitting]]**               | Chunk size limits; context window constraints; retrieval granularity; embedding quality. Motivation.                                                            |
+| **[[LC3.2.2 RecursiveCharacterTextSplitter]]**   | Default splitter; separator hierarchy; recursive splitting logic; when to use. Primary splitter.                                                                |
+| **[[LC3.2.3 Chunk Size & Overlap]]**             | Choosing chunk_size; chunk_overlap importance; context preservation; size trade-offs. Key parameters.                                                           |
+| **[[LC3.2.4 Character vs Token Splitting]]**     | CharacterTextSplitter vs TokenTextSplitter; token-aware splitting; accurate sizing. Splitting methods.                                                          |
+| **[[LC3.2.5 Semantic Splitting]]**               | Meaning-aware splitting; sentence boundaries; paragraph boundaries; semantic coherence. Intelligent splitting.                                                  |
+| **[[LC3.2.6 Code Splitting]]**                   | Language-aware code splitting; function boundaries; class boundaries; preserving syntax. Code documents.                                                        |
+| **[[LC3.2.7 Markdown & HTML Splitting]]**        | MarkdownHeaderTextSplitter; HTMLHeaderTextSplitter; structure-aware splitting. Formatted documents.                                                             |
+| **[[LC3.2.8 Splitting Best Practices]]**         | Testing chunk quality; iterative refinement; domain-specific tuning; evaluation. Optimization.                                                                  |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.3.1 WebBaseLoader]]**                    | Basic web loading; URL fetching; content extraction. Simple web loading.                                                                                        |
+| **[[LC7.3.2 BeautifulSoup Integration]]**        | HTML parsing; element selection; content extraction. HTML parsing.                                                                                              |
+| **[[LC7.3.3 Playwright Integration]]**           | JavaScript-rendered pages; browser automation; dynamic content. Dynamic pages.                                                                                  |
+| **[[LC7.3.4 Dynamic Content Handling]]**         | AJAX content; lazy loading; scroll-based content. Dynamic loading.                                                                                              |
+| **[[LC7.3.5 Scraping Strategies]]**              | Efficient scraping; pagination; crawl depth; selective extraction. Scraping patterns.                                                                           |
+| **[[LC7.3.6 Ethical Scraping]]**                 | robots.txt; rate limiting; terms of service; responsible scraping. Ethical considerations.                                                                      |
+| **[[LC7.3.7 Content Cleaning]]**                 | Removing ads; navigation; boilerplate; main content extraction. Content cleanup.                                                                                |
+| **[[LC7.3.8 Scraping at Scale]]**                | Concurrent scraping; distributed scraping; proxy rotation. Scale considerations.                                                                                |

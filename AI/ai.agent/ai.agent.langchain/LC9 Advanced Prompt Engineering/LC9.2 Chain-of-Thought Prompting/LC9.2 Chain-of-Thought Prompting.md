@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.2.1 CoT Templates]]**                    | Chain-of-thought templates; reasoning prompts; step-by-step structure. CoT format.                                                                              |
+| **[[LC9.2.2 Reasoning Steps]]**                  | Breaking down reasoning; explicit steps; thought articulation. Step breakdown.                                                                                  |
+| **[[LC9.2.3 Step-by-Step Prompts]]**             | "Let's think step by step"; instruction patterns; reasoning triggers. Step prompts.                                                                             |
+| **[[LC9.2.4 CoT with Examples]]**                | Exemplar reasoning; demonstrated thinking; example reasoning chains. Exemplar CoT.                                                                              |
+| **[[LC9.2.5 Zero-Shot CoT]]**                    | No-example CoT; reasoning without examples; zero-shot patterns. No-example reasoning.                                                                           |
+| **[[LC9.2.6 Reasoning Quality]]**                | Judging reasoning; coherence; logical validity; reasoning evaluation. Quality assessment.                                                                       |
+| **[[LC9.2.7 CoT for Math/Logic]]**               | Mathematical reasoning; logical problems; structured inference. Quantitative reasoning.                                                                         |
+| **[[LC9.2.8 CoT Limitations]]**                  | When CoT fails; unnecessary reasoning; overhead. CoT boundaries.                                                                                                |

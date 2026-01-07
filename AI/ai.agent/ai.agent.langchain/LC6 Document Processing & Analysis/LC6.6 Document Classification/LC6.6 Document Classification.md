@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.6.1 Classification Chains]]**            | LLM-based classification; category assignment; classification prompts. Classification design.                                                                  |
+| **[[LC6.6.2 Category Prediction]]**              | Multi-class classification; label sets; probability outputs. Category assignment.                                                                               |
+| **[[LC6.6.3 Document Tagging]]**                 | Multi-label tagging; tag extraction; hierarchical tags. Tagging documents.                                                                                      |
+| **[[LC6.6.4 Document Routing]]**                 | Routing by content; classification-based routing; workflow integration. Routing logic.                                                                          |
+| **[[LC6.6.5 Sentiment Analysis]]**               | Sentiment extraction; polarity scoring; aspect sentiment. Sentiment detection.                                                                                  |
+| **[[LC6.6.6 Intent Classification]]**            | User intent detection; query classification; intent-based routing. Intent detection.                                                                            |
+| **[[LC6.6.7 Topic Classification]]**             | Topic detection; topic modeling; content categorization. Topic assignment.                                                                                      |
+| **[[LC6.6.8 Classification Confidence]]**        | Confidence thresholds; uncertain classifications; human fallback. Confidence handling.                                                                          |

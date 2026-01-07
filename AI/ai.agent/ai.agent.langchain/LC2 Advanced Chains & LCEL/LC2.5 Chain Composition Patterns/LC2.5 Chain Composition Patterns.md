@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.5.1 Nested Chains]]**                    | Chains within chains; hierarchical composition; nesting depth; readability considerations. Layered design.                                                       |
+| **[[LC2.5.2 Modular Chain Design]]**             | Breaking chains into modules; single responsibility; module interfaces; documentation. Clean architecture.                                                       |
+| **[[LC2.5.3 Chain Reuse Patterns]]**             | Extracting common chains; parameterized chains; chain factories; composition strategies. DRY principles.                                                         |
+| **[[LC2.5.4 Interface Design]]**                 | Consistent input/output contracts; schema definition; versioning; backward compatibility. API design.                                                            |
+| **[[LC2.5.5 Input/Output Mapping]]**             | RunnablePassthrough.assign; key transformation; data reshaping; adapter patterns. Data flow.                                                                     |
+| **[[LC2.5.6 Composition Strategies]]**           | Sequential vs parallel vs branching decisions; hybrid patterns; optimization. Pattern selection.                                                                 |
+| **[[LC2.5.7 Testing Composed Chains]]**          | Unit testing components; integration testing; mocking; test isolation. Quality assurance.                                                                        |
+| **[[LC2.5.8 Documentation Patterns]]**           | Documenting chain behavior; input/output specs; usage examples; maintenance. Chain documentation.                                                                |

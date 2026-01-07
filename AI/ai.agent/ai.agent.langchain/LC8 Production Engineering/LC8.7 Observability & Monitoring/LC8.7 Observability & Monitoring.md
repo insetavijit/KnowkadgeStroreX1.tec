@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.7.1 LangSmith Tracing]]**                | LangSmith setup; trace collection; trace visualization. LangSmith tracing.                                                                                      |
+| **[[LC8.7.2 Callback Handlers]]**                | Custom callbacks; event handling; metrics collection. Callback observability.                                                                                   |
+| **[[LC8.7.3 Structured Logging]]**               | JSON logging; log context; log aggregation. Logging patterns.                                                                                                   |
+| **[[LC8.7.4 Metrics Collection]]**               | Prometheus; custom metrics; latency tracking. Metrics.                                                                                                          |
+| **[[LC8.7.5 Debugging in Production]]**          | Production debugging; trace analysis; issue isolation. Prod debugging.                                                                                          |
+| **[[LC8.7.6 Performance Monitoring]]**           | Latency tracking; throughput metrics; performance baselines. Performance visibility.                                                                            |
+| **[[LC8.7.7 Alerting]]**                         | Error alerts; threshold alerts; alert configuration. Alert setup.                                                                                               |
+| **[[LC8.7.8 Dashboards]]**                       | Grafana; monitoring dashboards; visualization. Dashboards.                                                                                                      |

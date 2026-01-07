@@ -1,0 +1,10 @@
+| Topic                                          | Focus & Purpose                                                                                                                                                  |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.8.1 Callbacks System Overview]]**      | What are callbacks; callback handlers; events in LangChain; callback lifecycle; when callbacks fire. Callback architecture.                                      |
+| **[[LC1.8.2 Built-in Callback Handlers]]**     | StdOutCallbackHandler; FileCallbackHandler; StreamingStdOutCallbackHandler; using built-in handlers. Ready-made handlers.                                        |
+| **[[LC1.8.3 Verbose Mode]]**                   | Enabling verbose output; verbose parameter; chain-level vs global verbose; interpreting verbose output. Quick debugging.                                          |
+| **[[LC1.8.4 Logging Best Practices]]**         | Python logging integration; log levels; structured logging; log formatting; production logging. Observability.                                                    |
+| **[[LC1.8.5 Tracing Chains]]**                 | Understanding chain execution; tracing data flow; identifying bottlenecks; execution order; debugging complex chains. Execution insight.                          |
+| **[[LC1.8.6 LangSmith Integration]]**          | What is LangSmith; setting up tracing; viewing traces; debugging in LangSmith; production monitoring. Platform integration.                                       |
+| **[[LC1.8.7 Custom Callback Handlers]]**       | Creating custom handlers; BaseCallbackHandler; implementing callback methods; custom logging; metrics collection. Extending callbacks.                            |
+| **[[LC1.8.8 Performance Monitoring]]**         | Timing chain execution; token usage tracking; cost monitoring; latency measurement; performance optimization. Metrics and tuning.                                 |

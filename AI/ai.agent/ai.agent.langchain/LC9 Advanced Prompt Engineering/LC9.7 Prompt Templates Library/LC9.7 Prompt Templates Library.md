@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.7.1 Template Catalog]]**                 | Building template collections; organization; discovery. Template management.                                                                                    |
+| **[[LC9.7.2 Domain-Specific Templates]]**        | Industry templates; task templates; specialized prompts. Domain templates.                                                                                      |
+| **[[LC9.7.3 Reusable Patterns]]**                | Common patterns; pattern library; template reuse. Pattern library.                                                                                              |
+| **[[LC9.7.4 Template Versioning]]**              | Version control; template history; migration. Version management.                                                                                               |
+| **[[LC9.7.5 Template Management]]**              | Storage; access control; template lifecycle. Template ops.                                                                                                      |
+| **[[LC9.7.6 Template Documentation]]**           | Documenting templates; usage guides; examples. Documentation.                                                                                                   |
+| **[[LC9.7.7 Template Testing]]**                 | Testing templates; validation; regression. Template testing.                                                                                                    |
+| **[[LC9.7.8 Template Sharing]]**                 | Team sharing; public templates; LangChain Hub. Sharing templates.                                                                                               |

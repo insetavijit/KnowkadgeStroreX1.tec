@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.3.1 AgentExecutor Overview]]**           | What AgentExecutor does; agent + tools + execution loop; executor role. Core execution.                                                                         |
+| **[[LC4.3.2 Creating AgentExecutor]]**           | Instantiating AgentExecutor; required parameters; basic setup. Getting started.                                                                                 |
+| **[[LC4.3.3 Max Iterations]]**                   | max_iterations parameter; preventing infinite loops; iteration limits; safety. Loop control.                                                                    |
+| **[[LC4.3.4 Early Stopping]]**                   | early_stopping_method; force vs generate; stopping conditions. Execution control.                                                                               |
+| **[[LC4.3.5 Timeout Configuration]]**            | max_execution_time; timeout handling; long-running protection. Time limits.                                                                                     |
+| **[[LC4.3.6 Error Handling]]**                   | handle_parsing_errors; error recovery; graceful failures; error messages. Robust execution.                                                                     |
+| **[[LC4.3.7 Verbose Mode]]**                     | verbose parameter; execution tracing; debugging agents; understanding agent reasoning. Debugging.                                                               |
+| **[[LC4.3.8 Return Intermediate Steps]]**        | return_intermediate_steps; accessing agent reasoning; step-by-step output. Execution visibility.                                                                |

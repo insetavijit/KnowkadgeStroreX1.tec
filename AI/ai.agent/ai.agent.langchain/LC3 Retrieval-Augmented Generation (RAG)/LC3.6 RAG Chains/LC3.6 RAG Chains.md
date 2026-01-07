@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.6.1 RAG Chain Concepts]]**               | RAG workflow; retrieval + generation; context injection; RAG architecture. Foundational pattern.                                                                |
+| **[[LC3.6.2 RetrievalQA Chain]]**                | Legacy RetrievalQA; chain types (stuff, map_reduce, refine); basic RAG setup. Traditional approach.                                                             |
+| **[[LC3.6.3 RAG with LCEL]]**                    | Building RAG with LCEL; RunnablePassthrough; context formatting; modern RAG chains. Current best practice.                                                      |
+| **[[LC3.6.4 Context Injection]]**                | Formatting retrieved documents; context templates; document separators; context limits. Prompt construction.                                                    |
+| **[[LC3.6.5 ConversationalRetrievalChain]]**     | RAG with memory; chat history; follow-up questions; conversational context. Multi-turn RAG.                                                                     |
+| **[[LC3.6.6 Source Citation]]**                  | Returning source documents; metadata for citations; source formatting; traceability. Attribution.                                                               |
+| **[[LC3.6.7 RAG Prompt Engineering]]**           | Effective RAG prompts; instruction clarity; handling no-context; answer formatting. Prompt design.                                                              |
+| **[[LC3.6.8 Streaming RAG]]**                    | Streaming RAG responses; progressive output; user experience; streaming with sources. Real-time RAG.                                                            |

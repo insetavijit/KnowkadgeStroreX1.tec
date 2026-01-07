@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.4.1 Summarization Overview]]**           | Summarization types; use cases; LLM-based summarization. Summarization concepts.                                                                                |
+| **[[LC6.4.2 Extractive Summarization]]**         | Key sentence extraction; importance scoring; extraction methods. Extractive approach.                                                                           |
+| **[[LC6.4.3 Abstractive Summarization]]**        | LLM-generated summaries; paraphrasing; novel phrasing. Abstractive approach.                                                                                    |
+| **[[LC6.4.4 Map-Reduce Summarization]]**         | Chunk-level summaries; summary aggregation; parallel processing. Map-reduce pattern.                                                                            |
+| **[[LC6.4.5 Refine Chain Summarization]]**       | Iterative refinement; progressive summarization; sequential processing. Refine pattern.                                                                         |
+| **[[LC6.4.6 Stuff Chain]]**                      | Single-pass summarization; context fitting; simple approach. Stuff pattern.                                                                                     |
+| **[[LC6.4.7 Summary Quality]]**                  | Coherence; completeness; factual accuracy; summary evaluation. Quality metrics.                                                                                 |
+| **[[LC6.4.8 Length-Controlled Summaries]]**      | Target length; compression ratio; adaptive summarization. Length control.                                                                                       |

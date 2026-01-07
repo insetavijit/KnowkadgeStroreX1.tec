@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                   |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC1.1.1 What Is LangChain]]**                | Define **LangChain** as a framework for building LLM-powered applications; core problem it addresses; role in the AI tooling landscape. Conceptual grounding.     |
+| **[[LC1.1.2 Installation & Environment Setup]]** | Installing LangChain via `pip install langchain`; Python version expectations; virtual environment best practices; verifying installation. Environment readiness. |
+| **[[LC1.1.3 Core Packages Overview]]**           | Purpose of key packages: `langchain-core`, `langchain-community`, and related integrations; separation of abstractions vs implementations. Architectural clarity. |
+| **[[LC1.1.4 Project Structure]]**                | Recommended project layout for LangChain applications; organizing prompts, chains, tools, configs, and runtime code. Structural orientation.                      |
+| **[[LC1.1.5 Modular Design Philosophy]]**        | LangChain’s modular approach: composable components, swappable integrations, abstraction layers; benefits for experimentation and scalability. Design rationale.  |
+| **[[LC1.1.6 Component Ecosystem]]**              | High-level overview of ecosystem components: models, prompts, chains, tools, memory, retrievers, agents; how they fit together conceptually. Ecosystem literacy.  |
+| **[[LC1.1.7 When to Use LangChain]]**            | Appropriate use cases: orchestration-heavy LLM workflows, multi-step reasoning, tool-augmented agents; when plain API calls are sufficient. Decision boundaries.  |
+| **[[LC1.1.8 Industry Positioning]]**             | LangChain’s position among LLM frameworks and agent tooling; adoption in startups and AI teams; relevance for production-grade AI systems. Industry context.      |

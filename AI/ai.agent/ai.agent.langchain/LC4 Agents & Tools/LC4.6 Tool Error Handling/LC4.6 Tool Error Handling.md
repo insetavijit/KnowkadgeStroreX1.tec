@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.6.1 Try-Except in Tools]]**              | Exception handling within tools; catching errors; preventing agent crashes. Error containment.                                                                  |
+| **[[LC4.6.2 Input Validation Errors]]**          | Handling invalid inputs; validation error messages; user-friendly errors. Input errors.                                                                         |
+| **[[LC4.6.3 External Service Errors]]**          | API failures; timeout handling; network errors; service unavailability. External failures.                                                                      |
+| **[[LC4.6.4 Error Messages for LLM]]**           | Formatting errors for agent understanding; actionable error messages; recovery hints. LLM-friendly errors.                                                      |
+| **[[LC4.6.5 Fallback Tools]]**                   | Alternative tools on failure; tool fallback chains; graceful degradation. Tool fallbacks.                                                                       |
+| **[[LC4.6.6 Retry Strategies]]**                 | Automatic retries; exponential backoff; retry limits; transient error handling. Retry logic.                                                                    |
+| **[[LC4.6.7 Graceful Failures]]**                | Partial results; degraded functionality; maintaining agent operation. Resilient tools.                                                                          |
+| **[[LC4.6.8 Error Logging & Monitoring]]**       | Logging tool errors; error metrics; alerting; debugging production issues. Observability.                                                                       |

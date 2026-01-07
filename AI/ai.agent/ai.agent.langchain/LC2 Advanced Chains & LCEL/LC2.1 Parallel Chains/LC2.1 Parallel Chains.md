@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.1.1 RunnableParallel Overview]]**        | What is RunnableParallel; concurrent execution concept; parallel vs sequential; use cases for parallel chains. Foundational understanding.                       |
+| **[[LC2.1.2 Creating Parallel Chains]]**         | Syntax for RunnableParallel; dictionary-based definition; naming parallel branches; basic parallel chain setup. Building parallel chains.                        |
+| **[[LC2.1.3 Result Merging]]**                   | How parallel results combine; output dictionary structure; accessing branch results; merging strategies. Combining outputs.                                      |
+| **[[LC2.1.4 Fan-Out Patterns]]**                 | Distributing input to multiple chains; broadcasting data; one-to-many patterns; fan-out use cases. Distribution patterns.                                        |
+| **[[LC2.1.5 Fan-In Patterns]]**                  | Collecting parallel results; aggregation strategies; many-to-one patterns; result consolidation. Collection patterns.                                            |
+| **[[LC2.1.6 Concurrent Processing]]**            | Async execution under the hood; thread pools; concurrency limits; understanding parallel execution model. Execution mechanics.                                   |
+| **[[LC2.1.7 Performance Optimization]]**         | When parallelization helps; overhead considerations; optimal branching; benchmarking parallel chains. Speed improvements.                                         |
+| **[[LC2.1.8 Error Handling in Parallel]]**       | Handling failures in branches; partial success; error propagation; resilient parallel chains. Robust parallel execution.                                          |

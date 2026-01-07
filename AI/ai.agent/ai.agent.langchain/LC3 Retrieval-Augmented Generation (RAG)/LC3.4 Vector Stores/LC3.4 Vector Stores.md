@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.4.1 Vector Store Concepts]]**            | What vector stores do; similarity search; indexing; persistence; vector store role in RAG. Foundation.                                                          |
+| **[[LC3.4.2 Chroma]]**                           | Chroma setup; local persistence; collections; metadata filtering; Chroma for development. Local vector store.                                                   |
+| **[[LC3.4.3 FAISS]]**                            | Facebook AI Similarity Search; in-memory performance; index types; FAISS integration. High-performance local.                                                   |
+| **[[LC3.4.4 Pinecone]]**                         | Pinecone cloud setup; indexes; namespaces; metadata; production-grade vector search. Managed service.                                                           |
+| **[[LC3.4.5 Weaviate]]**                         | Weaviate setup; schema definition; hybrid search; GraphQL queries. Feature-rich vector DB.                                                                      |
+| **[[LC3.4.6 Similarity Search]]**                | similarity_search method; k parameter; score thresholds; distance metrics. Core retrieval.                                                                      |
+| **[[LC3.4.7 Metadata Filtering]]**               | Filtering by metadata; filter syntax; combining filters; structured queries. Refined retrieval.                                                                 |
+| **[[LC3.4.8 CRUD Operations]]**                  | Adding documents; updating vectors; deleting documents; managing vector store lifecycle. Data management.                                                        |

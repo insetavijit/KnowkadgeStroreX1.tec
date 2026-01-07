@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.6.1 SemanticSimilarityExampleSelector]]**| Embedding-based selection; similar examples; semantic matching. Semantic selection.                                                                             |
+| **[[LC9.6.2 MaxMarginalRelevanceExampleSelector]]**| Diverse selection; MMR algorithm; balancing relevance and diversity. MMR selection.                                                                             |
+| **[[LC9.6.3 LengthBasedExampleSelector]]**       | Token-aware selection; fitting context; length constraints. Length selection.                                                                                   |
+| **[[LC9.6.4 Custom Example Selectors]]**         | Building custom selectors; BaseExampleSelector; specialized selection. Custom selectors.                                                                        |
+| **[[LC9.6.5 Example Stores]]**                   | Storing examples; vector stores for examples; example retrieval. Example storage.                                                                               |
+| **[[LC9.6.6 Selector Configuration]]**           | Configuring selectors; k parameter; threshold tuning. Selector settings.                                                                                        |
+| **[[LC9.6.7 Combined Selectors]]**               | Multiple selection strategies; ensemble selection; hybrid approaches. Combined selection.                                                                       |
+| **[[LC9.6.8 Selector Evaluation]]**              | Measuring selector quality; example relevance; selection effectiveness. Selector quality.                                                                       |

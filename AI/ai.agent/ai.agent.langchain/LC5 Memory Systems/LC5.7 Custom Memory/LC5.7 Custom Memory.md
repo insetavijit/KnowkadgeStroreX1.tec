@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.7.1 BaseMemory Interface]]**             | Memory interface contract; required methods; extending BaseMemory. Interface design.                                                                            |
+| **[[LC5.7.2 Implementing save_context]]**        | Saving conversation turns; input/output handling; storage logic. Saving memory.                                                                                 |
+| **[[LC5.7.3 Implementing load_memory_variables]]**| Loading relevant memory; return format; variable names. Loading memory.                                                                                         |
+| **[[LC5.7.4 Custom Memory Backends]]**           | Custom storage; specialized databases; hybrid stores. Backend flexibility.                                                                                      |
+| **[[LC5.7.5 Specialized Memory Types]]**         | Domain-specific memory; task-specific memory; custom logic. Specialized memory.                                                                                 |
+| **[[LC5.7.6 Memory Composition]]**               | Combining memory types; layered memory; memory orchestration. Composing memories.                                                                               |
+| **[[LC5.7.7 Memory Serialization]]**             | Custom serialization; format choices; migration; versioning. Data format.                                                                                       |
+| **[[LC5.7.8 Testing Custom Memory]]**            | Unit testing memory; integration testing; memory validation. Memory testing.                                                                                    |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.5.1 Named Entity Recognition]]**         | Extracting entities; person, org, location; NER integration. Entity extraction.                                                                                 |
+| **[[LC6.5.2 Relationship Extraction]]**          | Finding entity relationships; relation types; knowledge triples. Relation mining.                                                                               |
+| **[[LC6.5.3 Fact Extraction]]**                  | Extracting factual statements; fact verification; structured facts. Fact mining.                                                                                |
+| **[[LC6.5.4 Structured Extraction]]**            | Extracting to schemas; Pydantic models; typed extraction. Schema-based extraction.                                                                              |
+| **[[LC6.5.5 Extraction Chains]]**                | LLM-based extraction; extraction prompts; chain design. Extraction pipelines.                                                                                   |
+| **[[LC6.5.6 Key-Value Extraction]]**             | Form extraction; field identification; document parsing. Field extraction.                                                                                      |
+| **[[LC6.5.7 Event Extraction]]**                 | Detecting events; event attributes; temporal extraction. Event mining.                                                                                          |
+| **[[LC6.5.8 Extraction Validation]]**            | Validating extracted data; confidence scores; human review. Quality assurance.                                                                                  |

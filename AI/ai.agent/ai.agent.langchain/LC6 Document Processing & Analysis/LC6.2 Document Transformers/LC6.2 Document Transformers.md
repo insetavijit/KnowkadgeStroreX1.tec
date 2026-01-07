@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.2.1 Text Cleaning]]**                    | Removing noise; whitespace normalization; special character handling. Clean text.                                                                               |
+| **[[LC6.2.2 Normalization]]**                    | Case normalization; unicode handling; encoding fixes; standardization. Text normalization.                                                                      |
+| **[[LC6.2.3 Metadata Extraction]]**              | Extracting document metadata; author; date; title; custom metadata. Metadata handling.                                                                          |
+| **[[LC6.2.4 Document Augmentation]]**            | Adding context; enrichment; supplementary information. Document enhancement.                                                                                    |
+| **[[LC6.2.5 Preprocessing Pipelines]]**          | Chaining transformers; pipeline design; transformation order. Pipeline construction.                                                                            |
+| **[[LC6.2.6 Language Detection]]**               | Detecting document language; multilingual handling; language-specific processing. Language handling.                                                            |
+| **[[LC6.2.7 Content Filtering]]**                | Removing irrelevant sections; header/footer removal; boilerplate detection. Content cleanup.                                                                    |
+| **[[LC6.2.8 Quality Assessment]]**               | Document quality metrics; completeness checks; extraction validation. Quality control.                                                                          |

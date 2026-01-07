@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.1.1 PDF Processing]]**                   | PyPDFLoader; PDFMiner; PDFPlumber; handling complex PDFs; extraction quality. PDF documents.                                                                    |
+| **[[LC6.1.2 Word Documents]]**                   | Docx2txtLoader; UnstructuredWordDocumentLoader; formatting preservation. Word files.                                                                            |
+| **[[LC6.1.3 HTML Loading]]**                     | BSHTMLLoader; UnstructuredHTMLLoader; cleaning HTML; extracting content. HTML documents.                                                                        |
+| **[[LC6.1.4 Markdown Loading]]**                 | UnstructuredMarkdownLoader; preserving structure; frontmatter handling. Markdown files.                                                                         |
+| **[[LC6.1.5 Notion Integration]]**               | NotionDBLoader; NotionDirectoryLoader; API setup; workspace access. Notion data.                                                                                |
+| **[[LC6.1.6 Google Drive Loading]]**             | GoogleDriveLoader; authentication; folder traversal; file filtering. Google Drive.                                                                              |
+| **[[LC6.1.7 SharePoint Integration]]**           | SharePoint loaders; Microsoft Graph API; enterprise document access. SharePoint.                                                                                |
+| **[[LC6.1.8 Enterprise Connectors]]**            | Confluence; Slack; Jira; enterprise system integration; authentication patterns. Enterprise sources.                                                            |

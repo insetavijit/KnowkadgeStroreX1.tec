@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.2.1 InMemoryCache]]**                    | Simple in-memory caching; cache setup; development use. Memory cache.                                                                                           |
+| **[[LC8.2.2 Redis Cache]]**                      | Redis integration; persistent cache; distributed caching. Redis backend.                                                                                        |
+| **[[LC8.2.3 SQLite Cache]]**                     | SQLite-based cache; local persistence; lightweight caching. SQLite backend.                                                                                     |
+| **[[LC8.2.4 Cache Keys]]**                       | Key generation; input hashing; cache key strategies. Key design.                                                                                                |
+| **[[LC8.2.5 Cache Invalidation]]**               | Invalidation strategies; TTL; manual invalidation; stale data. Cache freshness.                                                                                 |
+| **[[LC8.2.6 Semantic Caching]]**                 | Embedding-based caching; similar query matching; semantic keys. Smart caching.                                                                                  |
+| **[[LC8.2.7 Cost Reduction]]**                   | Avoiding duplicate API calls; cache hit rates; cost analysis. Cost savings.                                                                                     |
+| **[[LC8.2.8 Cache Monitoring]]**                 | Cache metrics; hit/miss rates; cache performance. Cache observability.                                                                                          |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.3.1 RunnableWithFallbacks Overview]]**   | What is RunnableWithFallbacks; fallback concept; primary vs fallback chains; use cases. Foundational understanding.                                              |
+| **[[LC2.3.2 Defining Fallback Chains]]**         | with_fallbacks method; fallback list; fallback order; multiple fallbacks. Building fallback chains.                                                              |
+| **[[LC2.3.3 Retry Logic]]**                      | Retry decorators; retry count; retry delays; exponential backoff; when to retry. Automatic retries.                                                              |
+| **[[LC2.3.4 Error Recovery]]**                   | Catching exceptions; error types; recovery strategies; partial recovery; logging failures. Handling errors.                                                      |
+| **[[LC2.3.5 Timeout Handling]]**                 | Setting timeouts; timeout exceptions; timeout strategies; long-running chain protection. Time limits.                                                            |
+| **[[LC2.3.6 Graceful Degradation]]**             | Reduced functionality on failure; degraded responses; user communication; maintaining availability. Service continuity.                                          |
+| **[[LC2.3.7 Fallback Chain Design]]**            | Simpler fallback models; cost-effective fallbacks; faster fallbacks; fallback hierarchy. Strategic fallbacks.                                                    |
+| **[[LC2.3.8 Testing Fallback Behavior]]**        | Simulating failures; testing fallback activation; coverage; regression testing. Quality assurance.                                                               |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.2.1 @tool Decorator]]**                  | Creating tools with @tool; function-based tools; automatic schema generation; simple tool creation. Quick tool building.                                        |
+| **[[LC4.2.2 Tool Class]]**                       | Tool class instantiation; name, description, func; explicit tool definition. Class-based tools.                                                                 |
+| **[[LC4.2.3 Tool Schemas]]**                     | Defining input schemas; Pydantic models for tools; type safety; complex inputs. Input definition.                                                               |
+| **[[LC4.2.4 StructuredTool]]**                   | StructuredTool for complex inputs; args_schema; multi-parameter tools. Advanced tool structure.                                                                 |
+| **[[LC4.2.5 Tool Descriptions]]**                | Writing effective descriptions; helping LLM tool selection; clarity; examples in descriptions. Tool documentation.                                              |
+| **[[LC4.2.6 Input Validation]]**                 | Validating tool inputs; Pydantic validators; error messages; input constraints. Robust inputs.                                                                  |
+| **[[LC4.2.7 Tool Naming Conventions]]**          | Clear naming; action-oriented names; avoiding ambiguity; name uniqueness. Naming best practices.                                                                |
+| **[[LC4.2.8 Return Formats]]**                   | Tool return values; string returns; structured returns; formatting for LLM consumption. Output design.                                                          |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.1.1 Example Selection]]**                | Choosing examples; relevance criteria; example sources. Selecting examples.                                                                                     |
+| **[[LC9.1.2 FewShotPromptTemplate]]**            | Template setup; example formatting; template configuration. Few-shot templates.                                                                                 |
+| **[[LC9.1.3 Dynamic Examples]]**                 | Runtime example selection; context-aware examples; adaptive prompts. Dynamic selection.                                                                         |
+| **[[LC9.1.4 Example Formatting]]**               | Format consistency; input/output structure; separator patterns. Example format.                                                                                 |
+| **[[LC9.1.5 Optimal Shot Count]]**               | How many examples; diminishing returns; context budget. Shot optimization.                                                                                      |
+| **[[LC9.1.6 Example Quality]]**                  | High-quality examples; diverse coverage; edge cases. Quality examples.                                                                                          |
+| **[[LC9.1.7 Few-Shot for Tasks]]**               | Task-specific few-shot; classification; extraction; generation. Task patterns.                                                                                  |
+| **[[LC9.1.8 Few-Shot Evaluation]]**              | Measuring few-shot effectiveness; A/B testing; improvement. Evaluation.                                                                                         |

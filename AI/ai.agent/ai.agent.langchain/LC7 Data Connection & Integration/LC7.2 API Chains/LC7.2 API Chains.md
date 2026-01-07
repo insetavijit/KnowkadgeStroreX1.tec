@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.2.1 APIChain Overview]]**                | Calling APIs from chains; API docs integration; dynamic requests. API chains.                                                                                   |
+| **[[LC7.2.2 REST API Integration]]**             | RESTful APIs; HTTP methods; endpoint construction. REST integration.                                                                                            |
+| **[[LC7.2.3 Authentication Handling]]**          | API keys; OAuth; bearer tokens; credential management. API authentication.                                                                                      |
+| **[[LC7.2.4 Request Construction]]**             | Building requests; headers; parameters; body construction. Request building.                                                                                    |
+| **[[LC7.2.5 Response Parsing]]**                 | JSON parsing; response extraction; error handling. Response processing.                                                                                         |
+| **[[LC7.2.6 API Documentation]]**                | Using OpenAPI specs; API docs in prompts; spec-driven generation. API specs.                                                                                    |
+| **[[LC7.2.7 Rate Limiting]]**                    | Respecting rate limits; backoff strategies; request throttling. Rate control.                                                                                   |
+| **[[LC7.2.8 API Error Handling]]**               | HTTP errors; retry logic; fallback responses; graceful failures. Error management.                                                                              |

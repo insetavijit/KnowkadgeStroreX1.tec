@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.4.1 Search Tools]]**                     | DuckDuckGoSearch; SerpAPI; Tavily; Google Search; web search integration. Information retrieval.                                                                |
+| **[[LC4.4.2 Calculator Tools]]**                 | LLMMath; Python math evaluation; calculation accuracy; math tool usage. Mathematical operations.                                                                |
+| **[[LC4.4.3 Python REPL]]**                      | PythonREPL tool; code execution; sandboxing concerns; use cases. Code execution.                                                                                |
+| **[[LC4.4.4 File System Tools]]**                | Reading files; writing files; directory listing; file operations. File access.                                                                                  |
+| **[[LC4.4.5 SQL Database Tools]]**               | SQL execution; query tools; database inspection; schema tools. Database interaction.                                                                            |
+| **[[LC4.4.6 API Tools]]**                        | RequestsGet; RequestsPost; API interaction; HTTP tools. External APIs.                                                                                          |
+| **[[LC4.4.7 Wikipedia & Knowledge Tools]]**      | WikipediaQueryRun; retrieval tools; knowledge bases. Information sources.                                                                                       |
+| **[[LC4.4.8 Tool Ecosystems]]**                  | LangChain hub tools; community tools; third-party integrations; discovering tools. Tool discovery.                                                              |

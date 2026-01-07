@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.2.1 RunnableBranch Overview]]**          | What is RunnableBranch; conditional execution concept; branching vs linear chains; when to use branching. Foundational understanding.                            |
+| **[[LC2.2.2 Condition Functions]]**              | Writing condition functions; input inspection; boolean returns; condition function signatures. Decision logic.                                                    |
+| **[[LC2.2.3 Branch Definition]]**                | Defining branches with tuples; condition-runnable pairs; branch ordering; syntax patterns. Building branches.                                                     |
+| **[[LC2.2.4 Default Branches]]**                 | Fallback branch when no condition matches; default runnable; ensuring complete coverage. Safety nets.                                                             |
+| **[[LC2.2.5 Dynamic Chain Selection]]**          | Selecting chains at runtime; input-driven routing; dynamic workflow paths; flexible architectures. Runtime decisions.                                             |
+| **[[LC2.2.6 Multi-Path Workflows]]**             | Complex branching scenarios; nested branches; combining routing with parallel; workflow graphs. Advanced patterns.                                                |
+| **[[LC2.2.7 Route Conditions Best Practices]]**  | Clear condition logic; avoiding overlap; testable conditions; documentation; maintainable routing. Quality routing.                                               |
+| **[[LC2.2.8 Routing vs Agents]]**                | When to use routing vs agents; deterministic vs LLM-driven routing; hybrid approaches; decision framework. Choosing approaches.                                  |

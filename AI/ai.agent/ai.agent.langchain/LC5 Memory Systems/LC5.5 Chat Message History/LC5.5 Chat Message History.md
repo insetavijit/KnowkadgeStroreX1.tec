@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.5.1 Chat Message History Concept]]**     | Message storage abstraction; history backends; decoupling storage. History abstraction.                                                                         |
+| **[[LC5.5.2 In-Memory History]]**                | ChatMessageHistory; development use; session-scoped history. Simple history.                                                                                    |
+| **[[LC5.5.3 Redis Message History]]**            | RedisChatMessageHistory; setup; persistence; scaling. Redis backend.                                                                                            |
+| **[[LC5.5.4 PostgreSQL Message History]]**       | PostgresChatMessageHistory; SQL storage; production setup. PostgreSQL backend.                                                                                  |
+| **[[LC5.5.5 MongoDB Message History]]**          | MongoDBChatMessageHistory; document storage; flexible schema. MongoDB backend.                                                                                  |
+| **[[LC5.5.6 File-Based History]]**               | FileChatMessageHistory; simple persistence; local storage. File backend.                                                                                        |
+| **[[LC5.5.7 Message Retrieval]]**                | Loading history; filtering; pagination; efficient retrieval. History access.                                                                                    |
+| **[[LC5.5.8 History Management Operations]]**    | Clearing history; archiving; TTL; history lifecycle. History operations.                                                                                        |

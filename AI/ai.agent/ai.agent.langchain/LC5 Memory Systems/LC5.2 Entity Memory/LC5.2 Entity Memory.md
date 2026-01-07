@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.2.1 ConversationEntityMemory Overview]]**| Entity-based memory; tracking people, places, things; entity-centric context. Entity focus.                                                                     |
+| **[[LC5.2.2 Entity Extraction]]**                | Automatic entity detection; LLM-based extraction; entity types; extraction prompts. Identifying entities.                                                       |
+| **[[LC5.2.3 Entity Tracking]]**                  | Updating entity information; entity state changes; historical entity data. Tracking changes.                                                                    |
+| **[[LC5.2.4 Relationship Memory]]**              | Entity relationships; connection tracking; relationship types; graph-like memory. Entity connections.                                                           |
+| **[[LC5.2.5 Knowledge Accumulation]]**           | Building knowledge over time; fact aggregation; knowledge synthesis. Growing knowledge.                                                                         |
+| **[[LC5.2.6 Entity Memory Configuration]]**      | Setup parameters; LLM for extraction; prompts customization; entity store. Configuration.                                                                       |
+| **[[LC5.2.7 Entity Context Injection]]**         | Using entities in prompts; relevant entity selection; context formatting. Entity usage.                                                                         |
+| **[[LC5.2.8 Entity Memory Use Cases]]**          | Personal assistants; CRM bots; relationship tracking; when to use entity memory. Applications.                                                                  |

@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.6.1 Adding Memory to Chains]]**          | Memory parameter; chain memory integration; setup patterns. Chain memory.                                                                                       |
+| **[[LC5.6.2 Memory in Agents]]**                 | Agent with memory; memory in AgentExecutor; conversational agents. Agent memory.                                                                                |
+| **[[LC5.6.3 Memory Keys]]**                      | input_key; output_key; memory_key; human_prefix; ai_prefix. Key configuration.                                                                                  |
+| **[[LC5.6.4 Context Injection Patterns]]**       | Injecting memory into prompts; context formatting; memory templates. Context injection.                                                                         |
+| **[[LC5.6.5 Memory Persistence in Chains]]**     | Saving after runs; loading before runs; persistence patterns. Chain persistence.                                                                                |
+| **[[LC5.6.6 Conversation Continuity]]**          | Session management; resuming conversations; user identification. Session handling.                                                                              |
+| **[[LC5.6.7 Memory in LCEL]]**                   | RunnableWithMessageHistory; LCEL memory patterns; modern approach. LCEL memory.                                                                                 |
+| **[[LC5.6.8 Multi-User Memory]]**                | User isolation; session IDs; multi-tenant memory; user context. User separation.                                                                                |

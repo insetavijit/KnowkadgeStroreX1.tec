@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.3.1 Multi-Source RAG]]**                 | RAG over multiple documents; source diversity; unified retrieval. Cross-source RAG.                                                                             |
+| **[[LC6.3.2 Source Attribution]]**               | Citing sources; document references; provenance tracking. Source tracking.                                                                                      |
+| **[[LC6.3.3 Conflicting Information]]**          | Handling contradictions; source prioritization; conflict resolution. Conflict handling.                                                                         |
+| **[[LC6.3.4 Information Synthesis]]**            | Combining information; multi-source answers; synthesis chains. Information combination.                                                                         |
+| **[[LC6.3.5 Cross-Document Reasoning]]**         | Reasoning across documents; connecting information; inference. Complex reasoning.                                                                               |
+| **[[LC6.3.6 Document Comparison QA]]**           | Comparing documents; diff-based questions; comparative analysis. Comparison queries.                                                                            |
+| **[[LC6.3.7 Hierarchical Document QA]]**         | Parent-child documents; hierarchy-aware retrieval; context levels. Hierarchical RAG.                                                                            |
+| **[[LC6.3.8 Multi-Document Evaluation]]**        | Evaluating multi-doc QA; coverage metrics; synthesis quality. Quality measurement.                                                                              |

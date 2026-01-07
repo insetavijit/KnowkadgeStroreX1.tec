@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.8.1 Diff Analysis]]**                    | Comparing document versions; identifying changes; diff algorithms. Version differences.                                                                         |
+| **[[LC6.8.2 Version Comparison]]**               | Multi-version comparison; change tracking; revision history. Version tracking.                                                                                  |
+| **[[LC6.8.3 Change Detection]]**                 | Detecting modifications; addition/deletion identification; change classification. Change identification.                                                        |
+| **[[LC6.8.4 Similarity Scoring]]**               | Document similarity; cosine similarity; Jaccard index; semantic similarity. Similarity metrics.                                                                 |
+| **[[LC6.8.5 Duplicate Detection]]**              | Finding duplicates; near-duplicates; deduplication strategies. Duplicate handling.                                                                              |
+| **[[LC6.8.6 Content Overlap]]**                  | Measuring overlap; shared content; plagiarism detection. Overlap analysis.                                                                                      |
+| **[[LC6.8.7 Semantic Comparison]]**              | Meaning-based comparison; beyond text matching; concept comparison. Semantic analysis.                                                                          |
+| **[[LC6.8.8 Comparison Reports]]**               | Generating comparison reports; visualization; summary of differences. Reporting.                                                                                |

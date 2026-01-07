@@ -1,0 +1,10 @@
+| Topic                                              | Focus & Purpose                                                                                                                                                  |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.1.1 Memory Types Overview]]**              | Comparing memory types; selection criteria; memory characteristics; matching to use cases. Memory selection.                                                    |
+| **[[LC5.1.2 ConversationBufferMemory]]**           | Full history storage; buffer setup; memory variables; loading and saving. Complete history.                                                                     |
+| **[[LC5.1.3 ConversationBufferWindowMemory]]**     | Sliding window; k parameter tuning; context trimming; window strategies. Windowed history.                                                                      |
+| **[[LC5.1.4 ConversationSummaryMemory]]**          | LLM-based summarization; summary prompts; progressive compression; summary quality. Summarized history.                                                         |
+| **[[LC5.1.5 ConversationSummaryBufferMemory]]**    | Hybrid approach; buffer + summary; token threshold; balancing detail and compression. Combined approach.                                                        |
+| **[[LC5.1.6 Memory Variables]]**                   | history vs chat_history; input/output keys; memory variable configuration. Variable naming.                                                                     |
+| **[[LC5.1.7 Token Budget Management]]**            | Counting tokens in memory; budget enforcement; automatic trimming; cost control. Token control.                                                                 |
+| **[[LC5.1.8 Memory Persistence Basics]]**          | Saving memory state; loading memory; serialization; session continuity. Persistence intro.                                                                      |

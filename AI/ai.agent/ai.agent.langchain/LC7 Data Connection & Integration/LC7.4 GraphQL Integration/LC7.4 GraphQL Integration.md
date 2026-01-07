@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.4.1 GraphQL Chains]]**                   | GraphQL query generation; chain integration; GraphQL execution. GraphQL chains.                                                                                 |
+| **[[LC7.4.2 Query Generation]]**                 | LLM-generated GraphQL; query construction; variable handling. Query building.                                                                                   |
+| **[[LC7.4.3 Schema Understanding]]**             | Introspection; schema parsing; type awareness. Schema handling.                                                                                                 |
+| **[[LC7.4.4 Nested Queries]]**                   | Deep queries; relationship traversal; nested data. Complex queries.                                                                                             |
+| **[[LC7.4.5 Mutations]]**                        | GraphQL mutations; data modification; mutation chains. Data changes.                                                                                            |
+| **[[LC7.4.6 GraphQL Clients]]**                  | Client integration; gql library; httpx integration. Client setup.                                                                                               |
+| **[[LC7.4.7 Error Handling]]**                   | GraphQL errors; partial results; error recovery. Error management.                                                                                              |
+| **[[LC7.4.8 GraphQL vs REST]]**                  | Choosing between GraphQL and REST; use case matching; integration decisions. API choice.                                                                        |

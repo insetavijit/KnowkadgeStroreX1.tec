@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.3.1 Request Throttling]]**               | Limiting request rate; throttle configuration; request queuing. Rate control.                                                                                   |
+| **[[LC8.3.2 API Rate Limits]]**                  | Understanding provider limits; TPM/RPM limits; limit monitoring. Provider limits.                                                                               |
+| **[[LC8.3.3 Quota Management]]**                 | Managing API quotas; quota allocation; usage tracking. Quota control.                                                                                           |
+| **[[LC8.3.4 Backoff Strategies]]**               | Rate limit backoff; wait and retry; adaptive throttling. Backoff patterns.                                                                                      |
+| **[[LC8.3.5 Queue Management]]**                 | Request queues; priority queuing; queue processing. Queue patterns.                                                                                             |
+| **[[LC8.3.6 Limit Handling]]**                   | Handling 429 errors; rate limit responses; user communication. Limit response.                                                                                  |
+| **[[LC8.3.7 Distributed Rate Limiting]]**        | Multi-instance limiting; Redis-based limits; coordinated throttling. Distributed limits.                                                                        |
+| **[[LC8.3.8 Burst Handling]]**                   | Traffic bursts; burst limits; smoothing traffic. Burst management.                                                                                              |

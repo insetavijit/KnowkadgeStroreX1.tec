@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.1.1 SQLDatabase Class]]**                | SQLDatabase wrapper; connecting to databases; supported databases. Database connection.                                                                         |
+| **[[LC7.1.2 SQL Chains]]**                       | SQLDatabaseChain; natural language to SQL; query execution. SQL chains.                                                                                         |
+| **[[LC7.1.3 Query Generation]]**                 | LLM-generated SQL; schema-aware generation; query templates. SQL generation.                                                                                    |
+| **[[LC7.1.4 Database Agents]]**                  | SQL agent; dynamic query building; multi-step database interaction. Database agents.                                                                            |
+| **[[LC7.1.5 Natural Language to SQL]]**          | Text-to-SQL conversion; query understanding; semantic parsing. NL2SQL.                                                                                          |
+| **[[LC7.1.6 Query Validation]]**                 | SQL validation; syntax checking; injection prevention; safe queries. Query safety.                                                                              |
+| **[[LC7.1.7 Schema Handling]]**                  | Schema extraction; table info; column types; schema prompts. Schema awareness.                                                                                  |
+| **[[LC7.1.8 Result Formatting]]**                | Formatting query results; table to text; result summarization. Output formatting.                                                                               |

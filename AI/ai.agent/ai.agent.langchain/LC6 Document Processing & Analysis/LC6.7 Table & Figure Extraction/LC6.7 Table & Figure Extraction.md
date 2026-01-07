@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC6.7.1 Table Parsing]]**                    | Extracting tables; table structure; row/column identification. Table extraction.                                                                                |
+| **[[LC6.7.2 Unstructured Integration]]**         | Unstructured library; element types; partition functions. Unstructured toolkit.                                                                                 |
+| **[[LC6.7.3 Image Extraction]]**                 | Extracting images; image metadata; image-text association. Image handling.                                                                                      |
+| **[[LC6.7.4 Caption Processing]]**               | Figure captions; table captions; caption-content linking. Caption extraction.                                                                                   |
+| **[[LC6.7.5 OCR Integration]]**                  | OCR for scanned docs; Tesseract; cloud OCR services. OCR processing.                                                                                            |
+| **[[LC6.7.6 Chart Understanding]]**              | Chart interpretation; data extraction from charts; visual reasoning. Chart processing.                                                                          |
+| **[[LC6.7.7 Table to Structured Data]]**         | Converting tables; DataFrame extraction; structured output. Table conversion.                                                                                   |
+| **[[LC6.7.8 Multi-Modal Documents]]**            | Documents with mixed content; coordinating extraction; unified processing. Mixed content.                                                                       |

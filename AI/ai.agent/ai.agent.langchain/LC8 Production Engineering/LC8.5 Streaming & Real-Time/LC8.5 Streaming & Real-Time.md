@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.5.1 Streaming Callbacks]]**              | StreamingStdOutCallbackHandler; custom streaming handlers. Stream callbacks.                                                                                    |
+| **[[LC8.5.2 Token Streaming]]**                  | Token-by-token output; real-time display; UX improvement. Token output.                                                                                         |
+| **[[LC8.5.3 Event Streaming]]**                  | astream_events; event types; chain events. Event streams.                                                                                                       |
+| **[[LC8.5.4 Server-Sent Events]]**               | SSE implementation; FastAPI streaming; event formatting. SSE integration.                                                                                       |
+| **[[LC8.5.5 WebSockets]]**                       | WebSocket streaming; bidirectional communication; connection management. WebSocket integration.                                                                 |
+| **[[LC8.5.6 Real-Time UIs]]**                    | Frontend integration; progressive display; typing indicators. UI patterns.                                                                                      |
+| **[[LC8.5.7 Streaming Error Handling]]**         | Errors in streams; stream recovery; partial output. Stream errors.                                                                                              |
+| **[[LC8.5.8 Streaming Performance]]**            | Latency optimization; first-token time; streaming efficiency. Stream performance.                                                                               |

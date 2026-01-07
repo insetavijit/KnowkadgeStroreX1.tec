@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC9.5.1 Iterative Refinement]]**             | Improving prompts iteratively; feedback-driven improvement; refinement cycles. Iterative improvement.                                                           |
+| **[[LC9.5.2 A/B Testing Prompts]]**              | Comparing prompt variants; statistical testing; winner selection. Prompt testing.                                                                               |
+| **[[LC9.5.3 Prompt Metrics]]**                   | Measuring prompt quality; success metrics; evaluation criteria. Quality metrics.                                                                                |
+| **[[LC9.5.4 DSPy Integration]]**                 | Programmatic optimization; DSPy basics; automatic tuning. DSPy optimization.                                                                                    |
+| **[[LC9.5.5 Automated Optimization]]**           | Automatic prompt improvement; optimization algorithms; systematic tuning. Auto-optimization.                                                                    |
+| **[[LC9.5.6 Prompt Version Control]]**           | Versioning prompts; prompt history; rollback; change tracking. Version management.                                                                              |
+| **[[LC9.5.7 Optimization Workflow]]**            | Systematic optimization process; baseline to optimized; improvement pipeline. Optimization process.                                                             |
+| **[[LC9.5.8 Continuous Improvement]]**           | Ongoing optimization; monitoring and improving; production optimization. Continuous optimization.                                                               |

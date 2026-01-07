@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC3.3.1 What Are Embeddings]]**              | Vector representations; semantic similarity; embedding space; why embeddings matter for RAG. Conceptual foundation.                                             |
+| **[[LC3.3.2 OpenAIEmbeddings]]**                 | Using OpenAI embeddings; text-embedding-ada-002; text-embedding-3-small/large; API setup. OpenAI provider.                                                      |
+| **[[LC3.3.3 HuggingFaceEmbeddings]]**            | Local embedding models; sentence-transformers; model selection; GPU acceleration. Open-source embeddings.                                                       |
+| **[[LC3.3.4 Embedding Dimensions]]**             | Understanding dimensions; dimensionality trade-offs; compression; storage implications. Vector sizing.                                                          |
+| **[[LC3.3.5 Embedding Documents]]**              | embed_documents method; batch embedding; handling large document sets. Document embedding.                                                                       |
+| **[[LC3.3.6 Embedding Queries]]**                | embed_query method; query vs document embedding; asymmetric models. Query embedding.                                                                            |
+| **[[LC3.3.7 Cost & Performance Trade-offs]]**    | Embedding costs; latency; accuracy vs speed; caching embeddings; cost optimization. Efficiency.                                                                 |
+| **[[LC3.3.8 Custom Embedding Models]]**          | Fine-tuned embeddings; domain-specific models; training considerations; integration. Specialized embeddings.                                                    |

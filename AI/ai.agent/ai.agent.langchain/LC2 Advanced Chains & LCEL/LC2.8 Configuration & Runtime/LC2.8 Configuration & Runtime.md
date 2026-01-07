@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC2.8.1 RunnableConfig Overview]]**          | What is RunnableConfig; configuration options; passing config; config inheritance. Configuration basics.                                                         |
+| **[[LC2.8.2 Runtime Configuration]]**            | Configuring at invoke time; dynamic settings; per-request configuration; overriding defaults. Dynamic config.                                                    |
+| **[[LC2.8.3 Configurable Chains]]**              | .configurable_fields(); .configurable_alternatives(); making chains flexible. Flexible chains.                                                                   |
+| **[[LC2.8.4 Environment Variables]]**            | Using env vars; dotenv integration; secrets in config; environment-based behavior. Environment config.                                                           |
+| **[[LC2.8.5 Tags and Metadata]]**                | Adding tags; metadata propagation; tracing context; debugging with tags. Observability config.                                                                   |
+| **[[LC2.8.6 Callbacks in Config]]**              | Passing callbacks via config; callback inheritance; runtime callback injection. Callback configuration.                                                          |
+| **[[LC2.8.7 Configuration Patterns]]**           | Config factory patterns; default configs; config validation; config documentation. Config best practices.                                                        |
+| **[[LC2.8.8 Multi-Environment Setup]]**          | Dev/staging/prod configs; config switching; feature flags; environment parity. Deployment configuration.                                                         |

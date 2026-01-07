@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC5.8.1 Token Counting]]**                   | tiktoken; counting message tokens; accurate tracking; model-specific counting. Token measurement.                                                               |
+| **[[LC5.8.2 Context Window Limits]]**            | Model limits; max tokens; available context; limit awareness. Understanding limits.                                                                             |
+| **[[LC5.8.3 Message Trimming]]**                 | Removing old messages; first-in-first-out; smart trimming. Message removal.                                                                                     |
+| **[[LC5.8.4 Summarization for Compression]]**    | Summary-based compression; when to summarize; summary triggers. Dynamic summarization.                                                                          |
+| **[[LC5.8.5 Context Compression]]**              | Compressing context; relevance-based compression; information density. Compression strategies.                                                                  |
+| **[[LC5.8.6 Cost Optimization]]**                | Reducing token usage; cost-aware memory; budget management. Cost control.                                                                                       |
+| **[[LC5.8.7 Preventing Context Overflow]]**      | Safety mechanisms; overflow handling; graceful degradation. Overflow prevention.                                                                                |
+| **[[LC5.8.8 Dynamic Context Allocation]]**       | Allocating context budget; priority-based allocation; smart distribution. Context budgeting.                                                                    |

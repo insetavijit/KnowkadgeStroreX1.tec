@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC4.7.1 Tool Selection Dynamics]]**          | How agents choose tools; description influence; selection patterns; improving selection. Tool choice.                                                           |
+| **[[LC4.7.2 Parallel Tool Execution]]**          | Running tools concurrently; parallel tool calls; performance benefits. Concurrent tools.                                                                        |
+| **[[LC4.7.3 Tool Combinations]]**                | Tools that work together; complementary tools; tool synergies. Tool coordination.                                                                               |
+| **[[LC4.7.4 Tool Dependencies]]**                | Tools that depend on other tools; sequential tool use; data flow between tools. Tool ordering.                                                                  |
+| **[[LC4.7.5 Tool Set Design]]**                  | Designing tool sets; minimal viable tools; avoiding redundancy; tool organization. Tool curation.                                                               |
+| **[[LC4.7.6 Tool Orchestration Patterns]]**      | Common multi-tool patterns; research + synthesis; search + retrieve + answer. Orchestration.                                                                    |
+| **[[LC4.7.7 Tool Chaining]]**                    | Explicit tool sequences; tool pipelines; deterministic tool flows. Sequential tools.                                                                            |
+| **[[LC4.7.8 Tool Performance Optimization]]**    | Reducing tool calls; caching tool results; efficient tool use. Optimization.                                                                                    |

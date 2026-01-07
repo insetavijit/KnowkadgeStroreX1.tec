@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.6.1 Transform Chains]]**                 | TransformChain; data transformation; non-LLM transformations. Transformation chains.                                                                            |
+| **[[LC7.6.2 Data Mapping]]**                     | Field mapping; key transformation; structure conversion. Mapping data.                                                                                          |
+| **[[LC7.6.3 Normalization]]**                    | Data normalization; format standardization; consistent output. Normalizing data.                                                                                |
+| **[[LC7.6.4 Aggregation]]**                      | Combining data; summarization; statistical aggregation. Data aggregation.                                                                                       |
+| **[[LC7.6.5 Data Preprocessing]]**               | Preparing data for LLM; formatting; context creation. Preprocessing.                                                                                            |
+| **[[LC7.6.6 ETL Patterns]]**                     | Extract-transform-load; pipeline patterns; data workflows. ETL design.                                                                                          |
+| **[[LC7.6.7 Format Conversion]]**                | JSON to XML; CSV to JSON; format transformations. Format changes.                                                                                               |
+| **[[LC7.6.8 Data Enrichment]]**                  | Adding context; external data integration; enrichment pipelines. Data enhancement.                                                                              |

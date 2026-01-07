@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC8.4.1 Token Counting]]**                   | tiktoken; get_num_tokens; accurate counting. Token measurement.                                                                                                 |
+| **[[LC8.4.2 Context Window Limits]]**            | Model limits; context budgeting; limit awareness. Context management.                                                                                           |
+| **[[LC8.4.3 Token Optimization]]**               | Reducing token usage; efficient prompts; compression. Token efficiency.                                                                                         |
+| **[[LC8.4.4 Cost Tracking]]**                    | Usage tracking; cost calculation; billing integration. Cost monitoring.                                                                                         |
+| **[[LC8.4.5 Budget Enforcement]]**               | Usage limits; budget caps; overspend prevention. Budget control.                                                                                                |
+| **[[LC8.4.6 Token Budgets]]**                    | Allocating token budgets; budget distribution; priority allocation. Budget allocation.                                                                          |
+| **[[LC8.4.7 Model Cost Comparison]]**            | Comparing model costs; cost-performance tradeoffs; model selection. Cost analysis.                                                                              |
+| **[[LC8.4.8 Usage Reporting]]**                  | Usage dashboards; reports; alerting on usage. Usage visibility.                                                                                                 |

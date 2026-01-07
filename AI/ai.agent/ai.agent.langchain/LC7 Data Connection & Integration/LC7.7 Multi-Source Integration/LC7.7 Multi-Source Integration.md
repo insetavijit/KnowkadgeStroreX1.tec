@@ -1,0 +1,10 @@
+| Topic                                            | Focus & Purpose                                                                                                                                                  |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[LC7.7.1 Combining Data Sources]]**           | Multiple source integration; unified access; source coordination. Multi-source access.                                                                          |
+| **[[LC7.7.2 Data Fusion]]**                      | Merging data; combining results; unified views. Data merging.                                                                                                   |
+| **[[LC7.7.3 Source Prioritization]]**            | Ranking sources; trust levels; source weighting. Source ranking.                                                                                                |
+| **[[LC7.7.4 Conflict Resolution]]**              | Handling contradictions; resolution strategies; consensus. Conflict handling.                                                                                   |
+| **[[LC7.7.5 Unified Interfaces]]**               | Abstract interfaces; source agnostic access; adapter patterns. Interface design.                                                                                |
+| **[[LC7.7.6 Cross-Source Queries]]**             | Queries spanning sources; federated queries; distributed retrieval. Cross-source retrieval.                                                                     |
+| **[[LC7.7.7 Data Consistency]]**                 | Consistency across sources; synchronization; freshness. Consistency management.                                                                                 |
+| **[[LC7.7.8 Integration Patterns]]**             | Common patterns; architecture designs; best practices. Integration design.                                                                                      |
