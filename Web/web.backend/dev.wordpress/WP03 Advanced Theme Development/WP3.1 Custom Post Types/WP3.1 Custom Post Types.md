@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP3.1.1 Registering Custom Post Types]]**    | register_post_type() function; basic CPT registration; activation/deactivation; CPT fundamentals. Registration basics.                            |
+| **[[WP3.1.2 Post Type Arguments]]**              | labels array; public, hierarchical, has_archive; supports array; capability_type; rewrite rules. Configuration options.                           |
+| **[[WP3.1.3 UI Labels]]**                        | Customizing admin labels; singular/plural names; menu labels; button text; user-friendly interface. Admin customization.                          |
+| **[[WP3.1.4 Capabilities]]**                     | CPT capabilities; capability_type; map_meta_cap; custom capabilities; user permissions. Access control.                                           |
+| **[[WP3.1.5 CPT Best Practices]]**               | Plugin vs theme CPTs; naming conventions; flush_rewrite_rules(); maintainable CPTs. Professional practices.                                       |
+| **[[WP3.1.6 CPT Templates]]**                    | single-{post_type}.php; archive-{post_type}.php; CPT template hierarchy; custom templates. Template integration.                                   |
+| **[[WP3.1.7 Extended Content Types]]**           | Advanced CPT features; custom icons; menu position; REST API support; complete CPT setup. Advanced configuration.                                  |

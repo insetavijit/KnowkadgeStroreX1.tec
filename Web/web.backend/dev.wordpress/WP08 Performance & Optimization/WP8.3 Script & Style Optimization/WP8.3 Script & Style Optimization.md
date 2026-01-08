@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP8.3.1 wp_enqueue_script() Optimization]]** | Optimal enqueueing; conditional loading; dependencies; footer loading. Script enqueueing.                                                         |
+| **[[WP8.3.2 Script Loading]]**                   | Script order; loading strategies; script placement; performance impact. Loading strategies.                                                       |
+| **[[WP8.3.3 Defer and Async]]**                  | defer attribute; async attribute; loading behavior; implementation methods. Script attributes.                                                    |
+| **[[WP8.3.4 Critical CSS]]**                     | Above-the-fold CSS; critical path; inline critical CSS; extraction tools. Critical CSS.                                                           |
+| **[[WP8.3.5 Removing Unused CSS JS]]**           | Identifying unused code; removal strategies; tree shaking; purging CSS. Code elimination.                                                          |
+| **[[WP8.3.6 Script Dependencies]]**              | Managing dependencies; optimizing dependency chains; reducing bloat. Dependency optimization.                                                     |
+| **[[WP8.3.7 Code Optimization]]**                | Complete script/style optimization; performance-focused development. Optimization mastery.                                                        |

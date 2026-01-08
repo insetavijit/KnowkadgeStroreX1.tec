@@ -1,0 +1,9 @@
+| Topic                                          | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP8.6.1 Mobile Optimization]]**            | Mobile-specific optimization; mobile performance; network considerations. Mobile focus.                                                            |
+| **[[WP8.6.2 Responsive Images]]**              | srcset optimization; mobile image sizes; art direction; image loading. Mobile images.                                                               |
+| **[[WP8.6.3 Touch Performance]]**              | Touch responsiveness; scroll performance; interaction optimization. Touch optimization.                                                            |
+| **[[WP8.6.4 Mobile Core Web Vitals]]**         | Mobile-specific metrics; mobile vs desktop scores; mobile optimization. Mobile metrics.                                                            |
+| **[[WP8.6.5 Mobile-First Performance]]**       | Starting with mobile; progressive enhancement; mobile baseline. Mobile-first approach.                                                             |
+| **[[WP8.6.6 Network Optimization]]**           | Reducing payload; connection optimization; offline capabilities. Network efficiency.                                                               |
+| **[[WP8.6.7 Mobile Speed]]**                   | Complete mobile optimization; fast mobile experience; mobile excellence. Mobile mastery.                                                           |

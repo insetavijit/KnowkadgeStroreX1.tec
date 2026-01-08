@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP3.5.1 Creating Page Templates]]**          | Template header comment; Template Name; creating new templates; template file location. Template creation.                                         |
+| **[[WP3.5.2 Template Name Header]]**             | Template Name comment syntax; display name; template registration; dropdown integration. Template registration.                                    |
+| **[[WP3.5.3 page-{slug}.php Templates]]**        | Slug-based templates; automatic template selection; page-specific templates; naming convention. Slug templates.                                   |
+| **[[WP3.5.4 Template Selection]]**               | Page Attributes panel; template dropdown; assigning templates; template switching. User selection.                                                 |
+| **[[WP3.5.5 Specialized Layouts]]**              | Full-width templates; landing pages; custom layouts; sidebar variations; specific designs. Layout templates.                                       |
+| **[[WP3.5.6 Template Parts in Pages]]**          | Using get_template_part() in page templates; modular page design; reusable sections. Modular pages.                                               |
+| **[[WP3.5.7 Custom Pages Best Practices]]**      | Template organization; naming conventions; documentation; maintainable templates. Professional templates.                                          |

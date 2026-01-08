@@ -1,0 +1,9 @@
+| Topic                                          | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP9.3.1 Escaping Output]]**                | Why escape output; late escaping principle; output contexts; escaping workflow. Output escaping.                                                   |
+| **[[WP9.3.2 esc_html() for Output]]**          | Using esc_html for display; template usage; when to use esc_html. HTML output.                                                                     |
+| **[[WP9.3.3 esc_attr() for Attributes]]**      | Attribute output; form values; data attributes; attribute safety. Attribute output.                                                                |
+| **[[WP9.3.4 wp_kses()]]**                      | Allowed HTML; wp_kses_post; wp_kses_allowed_html; custom allowed tags. Controlled HTML.                                                             |
+| **[[WP9.3.5 Late Escaping]]**                  | Escape as late as possible; escaping timing; escaping best practices. Escaping timing.                                                             |
+| **[[WP9.3.6 Preventing XSS]]**                 | XSS prevention through escaping; complete protection; verification. XSS prevention.                                                                |
+| **[[WP9.3.7 Output Security]]**                | Complete output protection; comprehensive escaping; security best practices. Output mastery.                                                       |

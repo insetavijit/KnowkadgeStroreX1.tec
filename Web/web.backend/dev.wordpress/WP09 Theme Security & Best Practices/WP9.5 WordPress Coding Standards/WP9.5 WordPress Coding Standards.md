@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP9.5.1 PHP Coding Standards]]**             | WordPress PHP standards; formatting; naming; documentation; PSR compliance. PHP standards.                                                        |
+| **[[WP9.5.2 HTML Standards]]**                   | HTML coding standards; indentation; attribute formatting; semantic HTML. HTML standards.                                                           |
+| **[[WP9.5.3 CSS Standards]]**                    | CSS coding standards; property ordering; selector naming; formatting. CSS standards.                                                                |
+| **[[WP9.5.4 JavaScript Standards]]**             | JavaScript standards; ES6+ conventions; jQuery standards; code organization. JS standards.                                                         |
+| **[[WP9.5.5 Code Quality]]**                     | Code quality tools; linting; PHPCS; code review; quality metrics. Quality assurance.                                                                |
+| **[[WP9.5.6 Professional Code]]**                | Writing maintainable code; readability; documentation; team coding. Professional practices.                                                        |
+| **[[WP9.5.7 Industry Standards]]**               | Complete standards compliance; theme review standards; professional code. Standards mastery.                                                       |

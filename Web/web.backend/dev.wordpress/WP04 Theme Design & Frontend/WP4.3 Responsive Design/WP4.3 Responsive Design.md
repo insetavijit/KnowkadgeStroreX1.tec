@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP4.3.1 Mobile-First Approach]]**            | Mobile-first philosophy; progressive enhancement; starting small; scaling up. Design methodology.                                                 |
+| **[[WP4.3.2 Media Queries]]**                    | @media syntax; min-width vs max-width; query logic; combining conditions. Query fundamentals.                                                     |
+| **[[WP4.3.3 Breakpoints]]**                      | Standard breakpoints; custom breakpoints; breakpoint strategy; common patterns. Responsive thresholds.                                            |
+| **[[WP4.3.4 Fluid Layouts]]**                    | Percentage widths; max-width; fluid grids; flexible containers; relative units. Fluid design.                                                     |
+| **[[WP4.3.5 Responsive Images]]**                | srcset attribute; sizes attribute; picture element; WordPress responsive images. Image optimization.                                               |
+| **[[WP4.3.6 Touch-Friendly Design]]**            | Touch targets; tap sizes; hover alternatives; gesture considerations. Mobile interaction.                                                          |
+| **[[WP4.3.7 Cross-Device Compatibility]]**       | Testing responsive design; device simulation; real device testing; compatibility verification. Testing practices.                                  |

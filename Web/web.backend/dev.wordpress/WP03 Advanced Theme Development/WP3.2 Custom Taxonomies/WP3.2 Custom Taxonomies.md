@@ -1,0 +1,9 @@
+| Topic                                              | Focus & Purpose                                                                                                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP3.2.1 Creating Custom Taxonomies]]**         | register_taxonomy() function; taxonomy registration; connecting to post types; taxonomy basics. Registration fundamentals.                        |
+| **[[WP3.2.2 Hierarchical vs Non-Hierarchical]]**   | Categories vs tags model; hierarchical true/false; UI differences; use case selection. Taxonomy types.                                            |
+| **[[WP3.2.3 Taxonomy Arguments]]**                 | labels, public, show_ui, show_admin_column; rewrite rules; taxonomy configuration. Configuration options.                                         |
+| **[[WP3.2.4 Taxonomy Templates]]**                 | taxonomy-{taxonomy}.php; taxonomy-{taxonomy}-{term}.php; archive templates; term display. Template integration.                                   |
+| **[[WP3.2.5 Custom Classification]]**              | Designing taxonomy structures; relationships; practical classification systems. Organization design.                                               |
+| **[[WP3.2.6 Taxonomy Functions]]**                 | get_terms(); get_the_terms(); wp_get_post_terms(); term display functions. Data retrieval.                                                        |
+| **[[WP3.2.7 Taxonomy Best Practices]]**            | Naming conventions; registration timing; shared taxonomies; professional implementation. Best practices.                                           |

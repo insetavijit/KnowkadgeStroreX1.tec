@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP2.2.1 Understanding Template Hierarchy]]** | How WordPress determines which template to use; decision tree; query-based selection; hierarchy logic. Core mechanism.                            |
+| **[[WP2.2.2 Template Precedence]]**              | Template priority order; specific to general fallback; naming patterns; template selection rules. Priority system.                                 |
+| **[[WP2.2.3 Conditional Tags]]**                 | is_home(), is_single(), is_page(), is_category(); conditional checks; template logic; conditional rendering. Query conditions.                    |
+| **[[WP2.2.4 Template Selection]]**               | How templates are chosen; query variables; template loader; debugging template selection. Selection process.                                       |
+| **[[WP2.2.5 Hierarchy Chart]]**                  | Visual hierarchy diagram; template types; fallback paths; reference chart; quick lookup. Visual reference.                                        |
+| **[[WP2.2.6 Practical Application]]**            | Real-world hierarchy usage; common scenarios; troubleshooting; best practices; effective implementation. Applied knowledge.                       |
+| **[[WP2.2.7 Custom Template Types]]**            | Creating custom templates; template naming for CPTs; taxonomy templates; archive templates. Extended hierarchy.                                    |

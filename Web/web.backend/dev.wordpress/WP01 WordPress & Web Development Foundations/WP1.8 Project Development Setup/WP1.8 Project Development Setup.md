@@ -1,0 +1,9 @@
+| Topic                                                | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP1.8.1 Complete Local Environment]]**           | Full local server setup; WordPress installation verification; database connection; admin access; site health check. Environment completion.       |
+| **[[WP1.8.2 WordPress Installation Verification]]**  | Verifying installation; checking admin dashboard; testing frontend; database verification; troubleshooting common issues. Installation validation. |
+| **[[WP1.8.3 Git Repository Setup]]**                 | Initializing repository; proper .gitignore; first commit; remote setup; pushing to GitHub/GitLab. Version control setup.                          |
+| **[[WP1.8.4 Basic Customization]]**                  | Site title and tagline; timezone; permalink settings; user profile; basic theme activation; initial configuration. WordPress configuration.       |
+| **[[WP1.8.5 Workflow Documentation]]**               | README creation; project documentation; setup instructions; environment notes; development guidelines. Documentation practices.                   |
+| **[[WP1.8.6 Development Tools Configuration]]**      | VS Code setup; extensions installation; browser tools; debugging configuration; productivity optimization. Tool configuration.                    |
+| **[[WP1.8.7 Professional Setup Checklist]]**         | Complete checklist; verification steps; common issues; troubleshooting guide; next steps; project readiness. Setup validation.                    |

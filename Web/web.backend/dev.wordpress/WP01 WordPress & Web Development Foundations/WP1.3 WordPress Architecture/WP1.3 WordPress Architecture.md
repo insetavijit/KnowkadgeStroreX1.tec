@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP1.3.1 WordPress File Structure]]**         | Root directory layout; key files and folders; understanding wp-admin, wp-includes, wp-content; file organization. Structural overview.            |
+| **[[WP1.3.2 Database Tables]]**                  | Core WordPress tables; wp_posts, wp_users, wp_options, wp_postmeta; table relationships; database schema understanding. Data architecture.        |
+| **[[WP1.3.3 Core Files]]**                       | Essential WordPress files; wp-config.php, wp-settings.php, wp-load.php; boot sequence; core functionality. System fundamentals.                   |
+| **[[WP1.3.4 wp-content Directory]]**             | Themes folder; plugins folder; uploads folder; mu-plugins; custom content organization; separation of concerns. Content organization.             |
+| **[[WP1.3.5 Themes vs Plugins]]**                | Conceptual distinction; when to use themes vs plugins; presentation vs functionality; proper code placement. Architecture decisions.              |
+| **[[WP1.3.6 WordPress Core]]**                   | What constitutes WordPress core; core updates; never modifying core files; hooks for customization. Core integrity.                                |
+| **[[WP1.3.7 Request Lifecycle]]**                | How WordPress handles requests; initialization sequence; template loading; query execution; response generation. Execution flow.                  |

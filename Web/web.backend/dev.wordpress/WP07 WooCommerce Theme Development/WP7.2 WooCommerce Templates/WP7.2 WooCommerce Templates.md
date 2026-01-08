@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP7.2.1 WooCommerce Template Structure]]**   | WooCommerce template folder; template organization; template types. Template overview.                                                             |
+| **[[WP7.2.2 Overriding Templates]]**             | woocommerce folder in theme; template override method; file copying; customization. Template override.                                             |
+| **[[WP7.2.3 Template Hooks]]**                   | WooCommerce action hooks; filter hooks; hook locations; template modification. Hook usage.                                                         |
+| **[[WP7.2.4 Shop Customization]]**               | Shop page template; archive-product.php; shop layout; customization options. Shop templates.                                                       |
+| **[[WP7.2.5 Template Hierarchy]]**               | WooCommerce template hierarchy; template selection; hierarchy chart. Hierarchy understanding.                                                      |
+| **[[WP7.2.6 Template Parts]]**                   | WooCommerce template parts; content-product.php; reusable components. Template parts.                                                              |
+| **[[WP7.2.7 Template Customization]]**           | Complete template customization; best practices; maintainable overrides. Customization mastery.                                                   |

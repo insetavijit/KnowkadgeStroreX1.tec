@@ -1,0 +1,9 @@
+| Topic                                              | Focus & Purpose                                                                                                                                    |
+| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP3.8.1 Portfolio CPT Creation]]**             | Registering portfolio post type; portfolio arguments; menu icon; feature support. CPT setup.                                                      |
+| **[[WP3.8.2 Portfolio Taxonomy]]**                 | Project categories; project tags; taxonomy registration; taxonomy UI. Classification setup.                                                       |
+| **[[WP3.8.3 ACF Portfolio Fields]]**               | Client name; project URL; gallery; project details; field group creation. Custom fields.                                                          |
+| **[[WP3.8.4 Portfolio Templates]]**                | single-portfolio.php; archive-portfolio.php; portfolio grid; project display. Template creation.                                                  |
+| **[[WP3.8.5 Complete Portfolio Solution]]**        | Full implementation; filtering; sorting; pagination; portfolio functionality. Complete feature.                                                   |
+| **[[WP3.8.6 Portfolio Styling]]**                  | Grid layouts; hover effects; lightbox integration; responsive design. Visual design.                                                              |
+| **[[WP3.8.7 Advanced Theme Completion]]**          | Testing; code review; optimization; documentation; project finalization. Project completion.                                                      |

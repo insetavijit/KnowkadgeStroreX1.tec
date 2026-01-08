@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP1.6.1 JavaScript Basics]]**                | Variables; data types; operators; statements; expressions; console usage; JavaScript syntax. Language fundamentals.                               |
+| **[[WP1.6.2 DOM Manipulation]]**                 | Document Object Model; selecting elements; modifying content; creating elements; event handling; DOM traversal. Page interaction.                 |
+| **[[WP1.6.3 jQuery Basics]]**                    | jQuery syntax; selectors; methods; chaining; jQuery in WordPress; jQuery dependency. Library fundamentals.                                        |
+| **[[WP1.6.4 ES6 Essentials]]**                   | let and const; arrow functions; template literals; destructuring; spread operator; modules; modern JavaScript. Modern syntax.                     |
+| **[[WP1.6.5 JavaScript in WordPress]]**          | wp_enqueue_script(); script dependencies; localization; inline scripts; footer vs header loading. WordPress integration.                          |
+| **[[WP1.6.6 Enqueuing Scripts]]**                | Proper script registration; dependencies array; versioning; conditional loading; script localization with wp_localize_script. Asset management.   |
+| **[[WP1.6.7 Event Handling]]**                   | Event listeners; event types; event delegation; preventing defaults; jQuery events vs vanilla JS. User interaction.                               |

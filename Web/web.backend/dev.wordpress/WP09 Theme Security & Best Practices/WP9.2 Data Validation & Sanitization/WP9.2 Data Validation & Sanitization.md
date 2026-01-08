@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP9.2.1 Input Validation]]**                 | Validating user input; validation functions; expected values; input checking. Input validation.                                                   |
+| **[[WP9.2.2 sanitize_text_field()]]**            | Text sanitization; stripping tags; encoding; sanitize_text_field usage. Text sanitization.                                                        |
+| **[[WP9.2.3 esc_html()]]**                       | HTML escaping; entity encoding; display safety; esc_html usage. HTML escaping.                                                                     |
+| **[[WP9.2.4 esc_attr()]]**                       | Attribute escaping; safe attributes; esc_attr usage; attribute contexts. Attribute escaping.                                                      |
+| **[[WP9.2.5 esc_url()]]**                        | URL sanitization; safe URLs; protocol checking; esc_url usage. URL escaping.                                                                       |
+| **[[WP9.2.6 Data Sanitization Functions]]**      | Complete sanitization reference; function selection; sanitization patterns. Function reference.                                                   |
+| **[[WP9.2.7 Data Protection]]**                  | Complete input handling; sanitization strategy; professional practices. Protection mastery.                                                       |

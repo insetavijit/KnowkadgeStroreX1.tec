@@ -1,0 +1,10 @@
+| Topic                                              | Focus & Purpose                                                                                                                                   |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP1.2.1 Local Server Concepts]]**              | Understanding local web servers; purpose of local development; how servers execute PHP; request/response cycle. Conceptual foundation.           |
+| **[[WP1.2.2 XAMPP Setup]]**                        | Installing XAMPP; configuring Apache and MySQL; starting/stopping services; common issues and troubleshooting. Cross-platform solution.          |
+| **[[WP1.2.3 WAMP Setup]]**                         | Installing WAMP on Windows; configuration; phpMyAdmin access; virtual hosts; Windows-specific considerations. Windows environment.               |
+| **[[WP1.2.4 Local by Flywheel]]**                  | Installing Local; creating sites; SSL certificates; live links; import/export; modern workflow advantages. Beginner-friendly solution.           |
+| **[[WP1.2.5 WordPress Installation]]**             | Downloading WordPress; database creation; running installation wizard; wp-config.php setup; initial configuration. Core installation.            |
+| **[[WP1.2.6 Database Setup]]**                     | Creating MySQL databases; user privileges; phpMyAdmin basics; database naming conventions; connection settings. Database fundamentals.           |
+| **[[WP1.2.7 Development Tools]]**                  | Code editors (VS Code); browser DevTools; debugging tools; useful extensions and plugins; productivity setup. Tooling essentials.                |
+| **[[WP1.2.8 Workflow Setup]]**                     | Project organization; file structure conventions; development workflow best practices; documentation habits. Professional workflow.              |

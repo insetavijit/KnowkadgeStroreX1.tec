@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP2.8.1 Building Simple Theme]]**            | Creating theme from scratch; minimum files; basic structure; theme activation; initial setup. Theme creation.                                     |
+| **[[WP2.8.2 Template Files Setup]]**             | Creating index.php; header.php; footer.php; sidebar.php; single.php; page.php; archive.php. Core templates.                                       |
+| **[[WP2.8.3 The Loop Implementation]]**          | Implementing The Loop; displaying posts; post formatting; Loop variations; complete Loop. Loop integration.                                       |
+| **[[WP2.8.4 Template Hierarchy Practice]]**      | Applying hierarchy knowledge; creating specific templates; testing template selection; hierarchy verification. Hierarchy application.             |
+| **[[WP2.8.5 Working Theme Structure]]**          | Complete file structure; organized theme; functional theme; ready for expansion. Structure completion.                                             |
+| **[[WP2.8.6 Basic Styling]]**                    | style.css implementation; basic CSS; layout styling; typography; visual foundation. Initial styling.                                              |
+| **[[WP2.8.7 Foundation Theme Completion]]**      | Testing theme; debugging; theme check; final adjustments; theme readiness. Project completion.                                                    |

@@ -1,0 +1,9 @@
+| Topic                                          | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP8.5.1 Browser Caching]]**                | Cache headers; expires; cache-control; browser cache configuration. Browser caching.                                                               |
+| **[[WP8.5.2 Object Caching]]**                 | Object cache API; persistent object cache; Redis; Memcached. Object caching.                                                                        |
+| **[[WP8.5.3 Page Caching]]**                   | Full page cache; caching plugins; cache warming; cache strategies. Page caching.                                                                   |
+| **[[WP8.5.4 CDN Integration]]**                | Content Delivery Networks; CDN setup; asset distribution; CDN providers. CDN usage.                                                                |
+| **[[WP8.5.5 Caching Plugins]]**                | WP Super Cache; W3 Total Cache; WP Rocket; plugin comparison. Plugin options.                                                                       |
+| **[[WP8.5.6 Cache Implementation]]**           | Implementing caching; cache configuration; testing caching; cache debugging. Implementation.                                                       |
+| **[[WP8.5.7 Speed Enhancement]]**              | Complete caching strategy; layered caching; maximum performance. Caching mastery.                                                                  |

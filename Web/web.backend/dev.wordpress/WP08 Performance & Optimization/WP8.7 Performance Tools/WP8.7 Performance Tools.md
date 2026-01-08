@@ -1,0 +1,9 @@
+| Topic                                          | Focus & Purpose                                                                                                                                    |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP8.7.1 GTmetrix]]**                       | GTmetrix usage; waterfall analysis; reports interpretation; optimization suggestions. GTmetrix tool.                                               |
+| **[[WP8.7.2 Lighthouse]]**                     | Lighthouse audits; Chrome DevTools; CI integration; automated testing. Lighthouse usage.                                                           |
+| **[[WP8.7.3 Query Monitor]]**                  | Query Monitor plugin; debugging; performance profiling; bottleneck identification. Query Monitor.                                                  |
+| **[[WP8.7.4 Debugging Tools]]**                | Browser DevTools; Network panel; Performance panel; debugging workflow. Browser tools.                                                             |
+| **[[WP8.7.5 Performance Testing]]**            | Testing methodology; consistent testing; testing environment; result interpretation. Testing practice.                                             |
+| **[[WP8.7.6 Profiling]]**                      | PHP profiling; Blackfire; Xdebug; profiling analysis; optimization targeting. Code profiling.                                                       |
+| **[[WP8.7.7 Performance Analysis]]**           | Complete tool mastery; comprehensive analysis; professional workflow. Analysis excellence.                                                         |

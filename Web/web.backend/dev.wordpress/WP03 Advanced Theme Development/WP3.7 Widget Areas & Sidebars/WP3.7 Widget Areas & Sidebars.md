@@ -1,0 +1,9 @@
+| Topic                                            | Focus & Purpose                                                                                                                                    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[WP3.7.1 register_sidebar() Function]]**      | Registering widget areas; sidebar arguments; before/after widget; wrapper HTML. Sidebar registration.                                             |
+| **[[WP3.7.2 dynamic_sidebar() Function]]**       | Displaying widget areas; sidebar ID; conditional display; template integration. Sidebar display.                                                  |
+| **[[WP3.7.3 Widgetized Areas]]**                 | Footer widgets; header widgets; custom widget areas; multiple sidebars; area planning. Widget areas.                                               |
+| **[[WP3.7.4 Custom Widgets]]**                   | WP_Widget class; extending widgets; widget form; update; display methods. Creating widgets.                                                        |
+| **[[WP3.7.5 Sidebar Customization]]**            | Widget styling; sidebar layout; responsive sidebars; sidebar variations. Visual customization.                                                    |
+| **[[WP3.7.6 Widget Area Best Practices]]**       | Naming conventions; sensible defaults; accessibility; widget management. Professional practices.                                                   |
+| **[[WP3.7.7 Dynamic Content Areas]]**            | Strategic widget placement; content flexibility; user-controlled areas; dynamic layouts. Content strategy.                                         |
