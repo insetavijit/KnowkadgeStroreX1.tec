@@ -1,8 +1,7 @@
-| **Subtopic**                                   | **Focus & Purpose**                | **Key Concepts / Details**                                         | **One-Line Recall**                                                    |
-| ---------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| **[[WP1.1.1 What Is WordPress]]**              | Define WordPress clearly           | Open-source CMS, PHP-based, content-first architecture             | WordPress is an open-source system for building and managing websites. |
-| **[[WP1.1.2 Market Dominance]]**               | Establish industry relevance       | Global usage share, adoption across blogs, businesses, enterprises | WordPress dominates the global CMS market.                             |
-| **[[WP1.1.3 CMS vs Website Builder]]**         | Clarify conceptual positioning     | CMS flexibility vs drag-and-drop builders, extensibility           | WordPress is a CMS, not just a site builder.                           |
-| **[[WP1.1.4 WordPress.org vs WordPress.com]]** | Remove platform confusion          | Self-hosted vs hosted, control vs convenience, monetization limits | WordPress.org offers full control; .com trades control for ease.       |
-| **[[WP1.1.5 WordPress Ecosystem]]**            | Show surrounding platform strength | Themes, plugins, page builders, hosting, community                 | WordPress thrives on a massive plugin and theme ecosystem.             |
-| **[[WP1.1.6 Career Opportunities]]**           | Connect skills to jobs             | Developer, designer, SEO, freelancer, agency roles                 | WordPress skills translate directly into paid work.                    |
+|**Subtopic**|**Focus & Purpose**|**Key Concepts / Details**|**One-Line Recall**|
+|---|---|---|---|
+|**[[WP1.1.1.1 Definition of WordPress]]**|Clearly define WordPress|Open-source CMS, PHP-based, database-driven, extensible|WordPress is an open-source content management system.|
+|**[[WP1.1.1.2 Core Purpose]]**|Explain why WordPress exists|Content publishing, site management, flexibility for non-developers|WordPress simplifies website creation and management.|
+|**[[WP1.1.1.3 What WordPress Is Used For]]**|Clarify application scope|Blogs, business websites, portfolios, eCommerce, apps|WordPress supports a wide range of website types.|
+|**[[WP1.1.1.4 CMS Capabilities]]**|Introduce core CMS features|Admin dashboard, themes, plugins, content modeling|WordPress provides a full-featured CMS interface.|
+|**[[WP1.1.1.5 Typical Use Cases]]**|Connect platform to practice|Personal sites, SMB websites, enterprise content platforms|WordPress is used from small blogs to large websites.|

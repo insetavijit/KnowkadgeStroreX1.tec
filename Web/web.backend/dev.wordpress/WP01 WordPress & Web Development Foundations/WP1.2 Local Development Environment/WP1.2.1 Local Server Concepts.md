@@ -1,7 +1,7 @@
-| **Subtopic** | **Focus & Purpose** | **Key Concepts / Details** | **One-Line Recall** |
-| :--- | :--- | :--- | :--- |
-| **[[WP1.2.1.1 Request/Response Cycle]]** | How the web works | Client sends HTTP request; Server processes PHP/DB; Server sends HTML response. | Server turns PHP into HTML for the browser. |
-| **[[WP1.2.1.2 What is a Server?]]** | The machine role | Software (Apache/Nginx) that listens for requests and serves files. | A server is just a computer that serves web pages. |
-| **[[WP1.2.1.3 Why Local Development?]]** | Safety and Speed | Develop offline; no risk to live site; instant file changes; zero cost. | Local development is fast, free, and safe. |
-| **[[WP1.2.1.4 The LAMP/LEMP Stack]]** | The software bundle | Linux, Apache/Nginx, MySQL, PHP; the core technologies powering WordPress. | LAMP is the engine under WordPress's hood. |
-| **[[WP1.2.1.5 Localhost & Ports]]** | Addressing | 127.0.0.1; localhost; port 80/8080; how computers talk to themselves. | Localhost is your computer talking to itself. |
+|**Subtopic**|**Focus & Purpose**|**Key Concepts / Details**|**One-Line Recall**|
+|---|---|---|---|
+|**[[WP1.2.1.1 What Is Local Development]]**|Define local development concept|Working on localhost, no internet needed, safe testing, faster iteration|Local development means building websites on your own computer.|
+|**[[WP1.2.1.2 Benefits of Local Development]]**|Explain why develop locally|Speed, safety, offline access, no hosting costs, experimentation freedom|Local development is faster, safer, and free for testing.|
+|**[[WP1.2.1.3 Web Server Stacks]]**|Introduce LAMP/WAMP/MAMP|Linux/Windows/Mac + Apache + MySQL + PHP; stack components explained|A web server stack combines Apache, MySQL, and PHP.|
+|**[[WP1.2.1.4 Localhost Explained]]**|Clarify localhost mechanics|127.0.0.1, loopback address, local DNS, port numbers, accessing sites|Localhost is your computer acting as its own web server.|
+|**[[WP1.2.1.5 Development vs Production]]**|Distinguish environments|Local vs staging vs production; why separation matters; deployment flow|Development, staging, and production are distinct environments.|

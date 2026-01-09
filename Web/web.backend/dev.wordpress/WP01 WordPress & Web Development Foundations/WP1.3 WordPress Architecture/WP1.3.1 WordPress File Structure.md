@@ -1,7 +1,7 @@
-| **Subtopic** | **Focus & Purpose** | **Key Concepts / Details** | **One-Line Recall** |
-| :--- | :--- | :--- | :--- |
-| **[[WP1.3.1.1 Root Directory]]** | The foundation | .htaccess; we-config.php; index.php; license.txt; readme.html. | The root is where the configuration lives. |
-| **[[WP1.3.1.2 wp-admin]]** | The Dashboard | Backend interface files; admin styles/scripts; user management tools. | wp-admin powers the dashboard. |
-| **[[WP1.3.1.3 wp-includes]]** | The Engine | Core API libraries; functioning logic; classes; huge library of functionality. | wp-includes is the engine room of WordPress. |
-| **[[WP1.3.1.4 wp-content]]** | User content | The only folder you should edit; contains themes, plugins, uploads. | wp-content is your creative workspace. |
-| **[[WP1.3.1.5 .htaccess]]** | Server rules | Apache configuration; permalink structure; security overrides; redirects. | .htaccess controls how the server behaves. |
+|**Subtopic**|**Focus & Purpose**|**Key Concepts / Details**|**One-Line Recall**|
+|---|---|---|---|
+|**[[WP1.3.1.1 Root Directory Overview]]**|Map WordPress root|index.php, wp-config.php, .htaccess, wp-load.php, license files|The root contains bootstrap and configuration files.|
+|**[[WP1.3.1.2 wp-admin Directory]]**|Understand admin files|Admin screens, admin functionality, edit-with-caution zone|wp-admin contains all dashboard functionality.|
+|**[[WP1.3.1.3 wp-includes Directory]]**|Explore core library|Core functions, classes, REST API, formatting, pluggable functions|wp-includes holds WordPress's core code library.|
+|**[[WP1.3.1.4 wp-content Directory]]**|Identify customization zone|Themes, plugins, uploads, mu-plugins, upgrade folder|wp-content is where all customization lives.|
+|**[[WP1.3.1.5 Files to Never Edit]]**|Establish safe boundaries|Core files regenerated on update, customizations lost, proper alternatives|Never edit files outside wp-content.|

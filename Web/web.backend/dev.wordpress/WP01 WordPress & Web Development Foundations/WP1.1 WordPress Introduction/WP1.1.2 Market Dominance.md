@@ -1,7 +1,7 @@
-| **Subtopic** | **Focus & Purpose** | **Key Concepts / Details** | **One-Line Recall** |
-| :--- | :--- | :--- | :--- |
-| **[[WP1.1.2.1 Global Market Share]]** | Quantify WordPress's reach | Powers 43%+ of the entire web; 64%+ of CMS market share. | WordPress powers over 40% of all websites globally. |
-| **[[WP1.1.2.2 Enterprise Adoption]]** | Validate scalability and trust | Used by White House, Disney, Sony, Meta Newsroom; enterprise-grade capabilities. | Major enterprises trust WordPress for high-scale sites. |
-| **[[WP1.1.2.3 E-commerce Dominance]]** | Highlight WooCommerce impact | WooCommerce powers ~20%+ of top 1 million e-commerce sites; flexible retail solution. | WordPress is a leading engine for online commerce. |
-| **[[WP1.1.2.4 CMS vs Competitors]]** | Compare relative standing | Dwarf competitors like Shopify, Wix, Squarespace in raw numbers and open ecosystem. | Its adoption vastly outpaces all proprietary competitors. |
-| **[[WP1.1.2.5 Growth Trajectory]]** | Future-proof skill set | Consistent year-over-year growth; shift towards application framework (Headless/Rest API). | WordPress usage continues to grow, securing careeers. |
+|**Subtopic**|**Focus & Purpose**|**Key Concepts / Details**|**One-Line Recall**|
+|---|---|---|---|
+|**[[WP1.1.2.1 Global Market Share]]**|Present WordPress's internet dominance|43%+ of all websites, 65%+ of CMS market, W3Techs data|WordPress powers over 43% of all websites globally.|
+|**[[WP1.1.2.2 Adoption Drivers]]**|Explain reasons for widespread use|Free & open-source, easy setup, massive plugin ecosystem, community support|WordPress thrives due to cost, flexibility, and community.|
+|**[[WP1.1.2.3 Industry Presence]]**|Show WordPress across sectors|Blogs, news sites, business websites, e-commerce, government portals|WordPress is used across virtually every industry.|
+|**[[WP1.1.2.4 Enterprise & Media Adoption]]**|Highlight major brand usage|TechCrunch, BBC America, Sony Music, The New Yorker, enterprise VIP hosting|Major brands and media outlets rely on WordPress.|
+|**[[WP1.1.2.5 Growth Trajectory]]**|Contextualize market trend|Year-over-year growth, Gutenberg evolution, headless adoption, future outlook|WordPress continues to grow and evolve with web trends.|

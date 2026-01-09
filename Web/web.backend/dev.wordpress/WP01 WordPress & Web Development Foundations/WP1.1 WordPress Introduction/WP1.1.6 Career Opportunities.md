@@ -1,7 +1,7 @@
-| **Subtopic** | **Focus & Purpose** | **Key Concepts / Details** | **One-Line Recall** |
-| :--- | :--- | :--- | :--- |
-| **[[WP1.1.6.1 Theme Developer]]** | Frontend focus | Creating custom designs; converting Figma to WP; PHP/JS/CSS mastery. | Theme devs build the face of the website. |
-| **[[WP1.1.6.2 Plugin Developer]]** | Backend focus | Building custom functionality; API integrations; complex logic solutions. | Plugin devs build the brain of the website. |
-| **[[WP1.1.6.3 Content Manager]]** | Operational focus | Managing editorial workflows; SEO optimization; site updates; non-technical role. | Content managers keep the site alive and ranking. |
-| **[[WP1.1.6.4 Freelance Implementer]]** | Hybrid role | Using page builders/themes to build sites for clients; focus on speed and delivery. | Implementers solve client problems using existing tools. |
-| **[[WP1.1.6.5 Agency Owner]]** | Business focus | Scaling operations; white-label services; maintenance retainers; recurring revenue. | Agencies scale WordPress services into a business. |
+|**Subtopic**|**Focus & Purpose**|**Key Concepts / Details**|**One-Line Recall**|
+|---|---|---|---|
+|**[[WP1.1.6.1 WordPress Developer Roles]]**|Define developer career paths|Theme developer, plugin developer, full-stack WP developer, Gutenberg specialist|WordPress developers specialize in themes, plugins, or both.|
+|**[[WP1.1.6.2 Designer & Frontend Roles]]**|Explore design careers|UI/UX for WordPress, theme customization, CSS specialization, visual builders|Designers create beautiful WordPress experiences.|
+|**[[WP1.1.6.3 Content & SEO Roles]]**|Present content careers|Content managers, SEO specialists, WordPress editors, marketing roles|Content professionals manage and optimize WordPress sites.|
+|**[[WP1.1.6.4 Freelance & Agency Work]]**|Discuss business opportunities|Freelancing platforms, agency work, client management, project pricing|WordPress skills enable freelance and agency careers.|
+|**[[WP1.1.6.5 Salary & Market Demand]]**|Provide compensation context|$60k-$150k ranges, remote opportunities, global demand, skill premiums|WordPress developers earn competitive salaries globally.|
