@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1.1 What Is WordPress.md",
+                "file": "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1.7 Industry Positioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WP1.1.1 What Is WordPress"
+              "title": "WP1.1.7 Industry Positioning"
             }
           }
         ]
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5b1aa8dcb300b652",
@@ -233,11 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0729291cb30c5df",
+  "active": "0ab1754b9285e29a",
   "lastOpenFiles": [
-    "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1 WordPress Introduction.md",
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1.1 What Is WordPress.md",
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP01 WordPress & Web Development Foundations.md",
+    "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1 WordPress Introduction.md",
     "dev.wordpress/WP02 WordPress Theme Basics/WP2.8 Project Basic Theme/WP2.8 Project Basic Theme.md",
     "dev.wordpress/WP02 WordPress Theme Basics/WP2.8 Project Basic Theme",
     "dev.wordpress/WP02 WordPress Theme Basics/WP2.7 WordPress Queries/WP2.7 WordPress Queries.md",
@@ -266,7 +265,6 @@
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.5 HTML5 & CSS3 Essentials/WP1.5 HTML5 & CSS3 Essentials.md",
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.4 PHP Basics for WordPress/WP1.4 PHP Basics for WordPress.md",
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.3 WordPress Architecture/WP1.3 WordPress Architecture.md",
-    "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.1 WordPress Introduction/WP1.1.1 What Is WordPress.md",
     "dev.wordpress/WP01 WordPress & Web Development Foundations/WP1.2 Local Development Environment.md",
     "dev.wordpress/WP12 Theme Deployment & Distribution/WP12 Theme Deployment & Distribution.md",
     "dev.wordpress/WP11 WordPress APIs & Advanced Features/WP11 WordPress APIs & Advanced Features.md",
